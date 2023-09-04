@@ -1,4 +1,12 @@
-### Hi there 👋
+# Hi there 👋
+
+- 👋 Hi! I'm shiquda!
+- 📖 I’m a freshman in Tongji University;
+- 🌱 I’m currently learning Python and JavaScript;
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shiquda&theme=vue-dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shiquda&theme=vue-dark&show_icons=true&hide=SCSS)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **shiquda/shiquda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
