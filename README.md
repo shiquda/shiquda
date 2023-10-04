@@ -2,7 +2,7 @@
 
 - 👋 Hi! I'm shiquda!
 - 📖 I’m a freshman in Tongji University;
-- 🌱 I’m currently learning Python and JavaScript;
+- 🌱 I’m currently learning Python and C++;
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shiquda&theme=vue-dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
