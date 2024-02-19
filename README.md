@@ -26,11 +26,11 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [世界，你好！](https://shiquda.link/hello-solo)
 - [如何为网站或者服务添加HTTPS](https://shiquda.link/articles/2024/01/31/1706670820508.html)
 - [国内服务器部署Stable Video Diffusion教程](https://shiquda.link/articles/2023/12/05/1701780603849.html)
 - [免费使用gpt-4的一种方法](https://shiquda.link/articles/2024/01/08/1704715752038.html)
 - [关于查找资源](https://shiquda.link/articles/2023/11/29/1701227248383.html)
-- [Google 高级搜索技巧+简易油猴脚本](https://shiquda.link/articles/2023/11/29/1701226195433.html)
 <!-- BLOG-POST-LIST:END -->
 
 ## Some platforms
