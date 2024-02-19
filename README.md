@@ -11,11 +11,11 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shiquda&theme=vue-dark&show_icons=true&hide=SCSS)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#937](https://github.com/dracula/dracula-theme/issues/937) in [dracula/dracula-theme](https://github.com/dracula/dracula-theme)
-2. ❗ Opened issue [#260](https://github.com/scriptscat/scriptcat/issues/260) in [scriptscat/scriptcat](https://github.com/scriptscat/scriptcat)
-3. 🗣 Commented on [#1179](https://github.com/immersive-translate/immersive-translate/issues/1179#issuecomment-1931726838) in [immersive-translate/immersive-translate](https://github.com/immersive-translate/immersive-translate)
-4. ❗ Opened issue [#319](https://github.com/baiy/Ctool/issues/319) in [baiy/Ctool](https://github.com/baiy/Ctool)
-5. 💪 Opened PR [#56](https://github.com/Night-stars-1/LiteLoaderQQNT-Plugin-QQPromote/pull/56) in [Night-stars-1/LiteLoaderQQNT-Plugin-QQPromote](https://github.com/Night-stars-1/LiteLoaderQQNT-Plugin-QQPromote)
+1. ❗ Opened issue [#9](https://github.com/shiquda/solo-blog/issues/9) in [shiquda/solo-blog](https://github.com/shiquda/solo-blog)
+2. ❗ Opened issue [#937](https://github.com/dracula/dracula-theme/issues/937) in [dracula/dracula-theme](https://github.com/dracula/dracula-theme)
+3. ❗ Opened issue [#260](https://github.com/scriptscat/scriptcat/issues/260) in [scriptscat/scriptcat](https://github.com/scriptscat/scriptcat)
+4. 🗣 Commented on [#1179](https://github.com/immersive-translate/immersive-translate/issues/1179#issuecomment-1931726838) in [immersive-translate/immersive-translate](https://github.com/immersive-translate/immersive-translate)
+5. ❗ Opened issue [#319](https://github.com/baiy/Ctool/issues/319) in [baiy/Ctool](https://github.com/baiy/Ctool)
 <!--END_SECTION:activity-->
 
 <picture>
