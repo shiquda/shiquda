@@ -11,11 +11,11 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shiquda&theme=vue-dark&show_icons=true&hide=SCSS)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#937](https://github.com/dracula/dracula-theme/issues/937#issuecomment-1953503101) in [dracula/dracula-theme](https://github.com/dracula/dracula-theme)
-2. ❗ Opened issue [#9](https://github.com/shiquda/solo-blog/issues/9) in [shiquda/solo-blog](https://github.com/shiquda/solo-blog)
-3. ❗ Opened issue [#937](https://github.com/dracula/dracula-theme/issues/937) in [dracula/dracula-theme](https://github.com/dracula/dracula-theme)
-4. ❗ Opened issue [#260](https://github.com/scriptscat/scriptcat/issues/260) in [scriptscat/scriptcat](https://github.com/scriptscat/scriptcat)
-5. 🗣 Commented on [#1179](https://github.com/immersive-translate/immersive-translate/issues/1179#issuecomment-1931726838) in [immersive-translate/immersive-translate](https://github.com/immersive-translate/immersive-translate)
+1. 💪 Opened PR [#14558](https://github.com/DIYgod/RSSHub/pull/14558) in [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub)
+2. 🗣 Commented on [#937](https://github.com/dracula/dracula-theme/issues/937#issuecomment-1953503101) in [dracula/dracula-theme](https://github.com/dracula/dracula-theme)
+3. ❗ Opened issue [#9](https://github.com/shiquda/solo-blog/issues/9) in [shiquda/solo-blog](https://github.com/shiquda/solo-blog)
+4. ❗ Opened issue [#937](https://github.com/dracula/dracula-theme/issues/937) in [dracula/dracula-theme](https://github.com/dracula/dracula-theme)
+5. ❗ Opened issue [#260](https://github.com/scriptscat/scriptcat/issues/260) in [scriptscat/scriptcat](https://github.com/scriptscat/scriptcat)
 <!--END_SECTION:activity-->
 
 <picture>
