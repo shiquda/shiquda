@@ -26,11 +26,11 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [记录一次绕过校园网限速的探索](https://shiquda.link/articles/2024/03/20/1710936263019.html)
 - [conda 常用命令](https://shiquda.link/articles/2024/02/26/1708943642988.html)
 - [如何寻找电子书？](https://shiquda.link/articles/2024/02/19/1708320689703.html)
 - [世界，你好！](https://shiquda.link/hello-solo)
 - [如何为网站或者服务添加HTTPS](https://shiquda.link/articles/2024/01/31/1706670820508.html)
-- [国内服务器部署Stable Video Diffusion教程](https://shiquda.link/articles/2023/12/05/1701780603849.html)
 <!-- BLOG-POST-LIST:END -->
 
 ## Some platforms
