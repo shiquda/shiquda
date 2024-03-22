@@ -26,7 +26,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [记录一次绕过校园网限速的探索](https://shiquda.link/articles/2024/03/20/1710936263019.html)
+- [记录一次绕过校园网限速的探索](https://shiquda.link/bypass-college-network-rate-limit)
 - [conda 常用命令](https://shiquda.link/articles/2024/02/26/1708943642988.html)
 - [如何寻找电子书？](https://shiquda.link/articles/2024/02/19/1708320689703.html)
 - [世界，你好！](https://shiquda.link/hello-solo)
