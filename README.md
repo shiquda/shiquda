@@ -26,10 +26,10 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [如何免费下载Microsoft Store商店上的付费应用](https://shiquda.link/how-to-download-apps-on-ms-store-for-free)
 - [记录一次绕过校园网限速的探索](https://shiquda.link/bypass-college-network-rate-limit)
 - [conda 常用命令](https://shiquda.link/articles/2024/02/26/1708943642988.html)
 - [如何寻找电子书？](https://shiquda.link/articles/2024/02/19/1708320689703.html)
-- [世界，你好！](https://shiquda.link/hello-solo)
 - [如何为网站或者服务添加HTTPS](https://shiquda.link/articles/2024/01/31/1706670820508.html)
 <!-- BLOG-POST-LIST:END -->
 
