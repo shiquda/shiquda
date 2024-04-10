@@ -13,11 +13,11 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shiquda&theme=vue-dark&show_icons=true&hide=SCSS)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#13](https://github.com/shiquda/solo-blog/issues/13) in [shiquda/solo-blog](https://github.com/shiquda/solo-blog)
-2. ❗ Opened issue [#12](https://github.com/shiquda/solo-blog/issues/12) in [shiquda/solo-blog](https://github.com/shiquda/solo-blog)
-3. ❗ Opened issue [#11](https://github.com/shiquda/solo-blog/issues/11) in [shiquda/solo-blog](https://github.com/shiquda/solo-blog)
-4. 🗣 Commented on [#106](https://github.com/vvbbnn00/WARP-Clash-API/issues/106#issuecomment-1971160346) in [vvbbnn00/WARP-Clash-API](https://github.com/vvbbnn00/WARP-Clash-API)
-5. ❗ Opened issue [#10](https://github.com/shiquda/solo-blog/issues/10) in [shiquda/solo-blog](https://github.com/shiquda/solo-blog)
+1. ❗ Opened issue [#14](https://github.com/shiquda/solo-blog/issues/14) in [shiquda/solo-blog](https://github.com/shiquda/solo-blog)
+2. ❗ Opened issue [#13](https://github.com/shiquda/solo-blog/issues/13) in [shiquda/solo-blog](https://github.com/shiquda/solo-blog)
+3. ❗ Opened issue [#12](https://github.com/shiquda/solo-blog/issues/12) in [shiquda/solo-blog](https://github.com/shiquda/solo-blog)
+4. ❗ Opened issue [#11](https://github.com/shiquda/solo-blog/issues/11) in [shiquda/solo-blog](https://github.com/shiquda/solo-blog)
+5. 🗣 Commented on [#106](https://github.com/vvbbnn00/WARP-Clash-API/issues/106#issuecomment-1971160346) in [vvbbnn00/WARP-Clash-API](https://github.com/vvbbnn00/WARP-Clash-API)
 <!--END_SECTION:activity-->
 
 <picture>
