@@ -13,11 +13,11 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shiquda&theme=vue-dark&show_icons=true&hide=SCSS)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3](https://github.com/shiquda/shiquda_UserScript/pull/3#issuecomment-2068720253) in [shiquda/shiquda_UserScript](https://github.com/shiquda/shiquda_UserScript)
-2. 🗣 Commented on [#3](https://github.com/shiquda/shiquda_UserScript/pull/3#issuecomment-2068712901) in [shiquda/shiquda_UserScript](https://github.com/shiquda/shiquda_UserScript)
-3. ❗ Opened issue [#14](https://github.com/shiquda/solo-blog/issues/14) in [shiquda/solo-blog](https://github.com/shiquda/solo-blog)
-4. ❗ Opened issue [#13](https://github.com/shiquda/solo-blog/issues/13) in [shiquda/solo-blog](https://github.com/shiquda/solo-blog)
-5. ❗ Opened issue [#12](https://github.com/shiquda/solo-blog/issues/12) in [shiquda/solo-blog](https://github.com/shiquda/solo-blog)
+1. 🎉 Merged PR [#4](https://github.com/shiquda/shiquda_UserScript/pull/4) in [shiquda/shiquda_UserScript](https://github.com/shiquda/shiquda_UserScript)
+2. 🗣 Commented on [#4](https://github.com/shiquda/shiquda_UserScript/pull/4#issuecomment-2069103399) in [shiquda/shiquda_UserScript](https://github.com/shiquda/shiquda_UserScript)
+3. 🗣 Commented on [#3](https://github.com/shiquda/shiquda_UserScript/pull/3#issuecomment-2068720253) in [shiquda/shiquda_UserScript](https://github.com/shiquda/shiquda_UserScript)
+4. 🗣 Commented on [#3](https://github.com/shiquda/shiquda_UserScript/pull/3#issuecomment-2068712901) in [shiquda/shiquda_UserScript](https://github.com/shiquda/shiquda_UserScript)
+5. ❗ Opened issue [#14](https://github.com/shiquda/solo-blog/issues/14) in [shiquda/solo-blog](https://github.com/shiquda/solo-blog)
 <!--END_SECTION:activity-->
 
 <picture>
