@@ -28,11 +28,11 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [看到一些人开始在博客上写题解，我也准备开始。](https://shiquda.link/solution-project-start)
 - [解决imgur图片无法加载的问题](https://shiquda.link/load-imgur-images)
 - [解决OI中使用g++编译器时出现的Segmentation fault错误](https://shiquda.link/solve-segmentation-fault)
 - [如何免费下载Microsoft Store商店上的付费应用](https://shiquda.link/how-to-download-apps-on-ms-store-for-free)
 - [记录一次绕过校园网限速的探索](https://shiquda.link/bypass-college-network-rate-limit)
-- [conda 常用命令](https://shiquda.link/articles/2024/02/26/1708943642988.html)
 <!-- BLOG-POST-LIST:END -->
 
 ## Some platforms
