@@ -13,11 +13,11 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shiquda&theme=vue-dark&show_icons=true&hide=SCSS)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#1742](https://github.com/immersive-translate/immersive-translate/issues/1742) in [immersive-translate/immersive-translate](https://github.com/immersive-translate/immersive-translate)
-2. 🗣 Commented on [#2718](https://github.com/alist-org/alist/issues/2718#issuecomment-2072362990) in [alist-org/alist](https://github.com/alist-org/alist)
-3. 🎉 Merged PR [#4](https://github.com/shiquda/shiquda_UserScript/pull/4) in [shiquda/shiquda_UserScript](https://github.com/shiquda/shiquda_UserScript)
-4. 🗣 Commented on [#4](https://github.com/shiquda/shiquda_UserScript/pull/4#issuecomment-2069103399) in [shiquda/shiquda_UserScript](https://github.com/shiquda/shiquda_UserScript)
-5. 🗣 Commented on [#3](https://github.com/shiquda/shiquda_UserScript/pull/3#issuecomment-2068720253) in [shiquda/shiquda_UserScript](https://github.com/shiquda/shiquda_UserScript)
+1. 🗣 Commented on [#1742](https://github.com/immersive-translate/immersive-translate/issues/1742#issuecomment-2130705592) in [immersive-translate/immersive-translate](https://github.com/immersive-translate/immersive-translate)
+2. 🗣 Commented on [#1742](https://github.com/immersive-translate/immersive-translate/issues/1742#issuecomment-2130693816) in [immersive-translate/immersive-translate](https://github.com/immersive-translate/immersive-translate)
+3. ❗ Opened issue [#1742](https://github.com/immersive-translate/immersive-translate/issues/1742) in [immersive-translate/immersive-translate](https://github.com/immersive-translate/immersive-translate)
+4. 🗣 Commented on [#2718](https://github.com/alist-org/alist/issues/2718#issuecomment-2072362990) in [alist-org/alist](https://github.com/alist-org/alist)
+5. 🎉 Merged PR [#4](https://github.com/shiquda/shiquda_UserScript/pull/4) in [shiquda/shiquda_UserScript](https://github.com/shiquda/shiquda_UserScript)
 <!--END_SECTION:activity-->
 
 <picture>
