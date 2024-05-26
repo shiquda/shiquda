@@ -13,11 +13,11 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shiquda&theme=vue-dark&show_icons=true&hide=SCSS)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1742](https://github.com/immersive-translate/immersive-translate/issues/1742#issuecomment-2130730061) in [immersive-translate/immersive-translate](https://github.com/immersive-translate/immersive-translate)
-2. 🗣 Commented on [#1742](https://github.com/immersive-translate/immersive-translate/issues/1742#issuecomment-2130705592) in [immersive-translate/immersive-translate](https://github.com/immersive-translate/immersive-translate)
-3. 🗣 Commented on [#1742](https://github.com/immersive-translate/immersive-translate/issues/1742#issuecomment-2130693816) in [immersive-translate/immersive-translate](https://github.com/immersive-translate/immersive-translate)
-4. ❗ Opened issue [#1742](https://github.com/immersive-translate/immersive-translate/issues/1742) in [immersive-translate/immersive-translate](https://github.com/immersive-translate/immersive-translate)
-5. 🗣 Commented on [#2718](https://github.com/alist-org/alist/issues/2718#issuecomment-2072362990) in [alist-org/alist](https://github.com/alist-org/alist)
+1. 🗣 Commented on [#26](https://github.com/ocapraro/obsidian-math-plus/issues/26#issuecomment-2132235818) in [ocapraro/obsidian-math-plus](https://github.com/ocapraro/obsidian-math-plus)
+2. 🗣 Commented on [#1742](https://github.com/immersive-translate/immersive-translate/issues/1742#issuecomment-2130730061) in [immersive-translate/immersive-translate](https://github.com/immersive-translate/immersive-translate)
+3. 🗣 Commented on [#1742](https://github.com/immersive-translate/immersive-translate/issues/1742#issuecomment-2130705592) in [immersive-translate/immersive-translate](https://github.com/immersive-translate/immersive-translate)
+4. 🗣 Commented on [#1742](https://github.com/immersive-translate/immersive-translate/issues/1742#issuecomment-2130693816) in [immersive-translate/immersive-translate](https://github.com/immersive-translate/immersive-translate)
+5. ❗ Opened issue [#1742](https://github.com/immersive-translate/immersive-translate/issues/1742) in [immersive-translate/immersive-translate](https://github.com/immersive-translate/immersive-translate)
 <!--END_SECTION:activity-->
 
 <picture>
