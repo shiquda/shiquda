@@ -28,11 +28,11 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [解决imgur图片无法加载的问题](https://shiquda.link/load-imgur-images)
 - [P1120 小木棍](https://shiquda.link/P1120)
 - [P1434 [SHOI2002] 滑雪](https://shiquda.link/articles/2024/05/28/1716902917595.html)
 - [P1535 [USACO08MAR] Cow Travelling S](https://shiquda.link/P1535)
 - [看到一些人开始在博客上写题解，我也准备开始。](https://shiquda.link/solution-project-start)
-- [解决imgur图片无法加载的问题](https://shiquda.link/load-imgur-images)
 <!-- BLOG-POST-LIST:END -->
 
 ## Some platforms
