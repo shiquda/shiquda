@@ -13,11 +13,11 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shiquda&theme=vue-dark&show_icons=true&hide=SCSS)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#24](https://github.com/lanqian528/chat2api/issues/24#issuecomment-2161067402) in [lanqian528/chat2api](https://github.com/lanqian528/chat2api)
-2. 🗣 Commented on [#24](https://github.com/lanqian528/chat2api/issues/24#issuecomment-2160980766) in [lanqian528/chat2api](https://github.com/lanqian528/chat2api)
-3. 🗣 Commented on [#24](https://github.com/lanqian528/chat2api/issues/24#issuecomment-2160960317) in [lanqian528/chat2api](https://github.com/lanqian528/chat2api)
-4. 🗣 Commented on [#26](https://github.com/ocapraro/obsidian-math-plus/issues/26#issuecomment-2132235818) in [ocapraro/obsidian-math-plus](https://github.com/ocapraro/obsidian-math-plus)
-5. 🗣 Commented on [#1742](https://github.com/immersive-translate/immersive-translate/issues/1742#issuecomment-2130730061) in [immersive-translate/immersive-translate](https://github.com/immersive-translate/immersive-translate)
+1. 🗣 Commented on [#24](https://github.com/lanqian528/chat2api/issues/24#issuecomment-2161186530) in [lanqian528/chat2api](https://github.com/lanqian528/chat2api)
+2. 🗣 Commented on [#24](https://github.com/lanqian528/chat2api/issues/24#issuecomment-2161067402) in [lanqian528/chat2api](https://github.com/lanqian528/chat2api)
+3. 🗣 Commented on [#24](https://github.com/lanqian528/chat2api/issues/24#issuecomment-2160980766) in [lanqian528/chat2api](https://github.com/lanqian528/chat2api)
+4. 🗣 Commented on [#24](https://github.com/lanqian528/chat2api/issues/24#issuecomment-2160960317) in [lanqian528/chat2api](https://github.com/lanqian528/chat2api)
+5. 🗣 Commented on [#26](https://github.com/ocapraro/obsidian-math-plus/issues/26#issuecomment-2132235818) in [ocapraro/obsidian-math-plus](https://github.com/ocapraro/obsidian-math-plus)
 <!--END_SECTION:activity-->
 
 <picture>
