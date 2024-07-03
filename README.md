@@ -13,11 +13,11 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shiquda&theme=vue-dark&show_icons=true&hide=SCSS)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#24](https://github.com/lanqian528/chat2api/issues/24#issuecomment-2164858499) in [lanqian528/chat2api](https://github.com/lanqian528/chat2api)
-2. 🗣 Commented on [#24](https://github.com/lanqian528/chat2api/issues/24#issuecomment-2161186530) in [lanqian528/chat2api](https://github.com/lanqian528/chat2api)
-3. 🗣 Commented on [#24](https://github.com/lanqian528/chat2api/issues/24#issuecomment-2161067402) in [lanqian528/chat2api](https://github.com/lanqian528/chat2api)
-4. 🗣 Commented on [#24](https://github.com/lanqian528/chat2api/issues/24#issuecomment-2160980766) in [lanqian528/chat2api](https://github.com/lanqian528/chat2api)
-5. 🗣 Commented on [#24](https://github.com/lanqian528/chat2api/issues/24#issuecomment-2160960317) in [lanqian528/chat2api](https://github.com/lanqian528/chat2api)
+1. ❗ Opened issue [#10](https://github.com/HanYaodong/BilibiliSponsorBlock/issues/10) in [HanYaodong/BilibiliSponsorBlock](https://github.com/HanYaodong/BilibiliSponsorBlock)
+2. 🗣 Commented on [#24](https://github.com/lanqian528/chat2api/issues/24#issuecomment-2164858499) in [lanqian528/chat2api](https://github.com/lanqian528/chat2api)
+3. 🗣 Commented on [#24](https://github.com/lanqian528/chat2api/issues/24#issuecomment-2161186530) in [lanqian528/chat2api](https://github.com/lanqian528/chat2api)
+4. 🗣 Commented on [#24](https://github.com/lanqian528/chat2api/issues/24#issuecomment-2161067402) in [lanqian528/chat2api](https://github.com/lanqian528/chat2api)
+5. 🗣 Commented on [#24](https://github.com/lanqian528/chat2api/issues/24#issuecomment-2160980766) in [lanqian528/chat2api](https://github.com/lanqian528/chat2api)
 <!--END_SECTION:activity-->
 
 <picture>
