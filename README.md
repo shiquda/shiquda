@@ -28,11 +28,11 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [你真的是墙头草吗？](https://shiquda.link/are-you-a-wallflower)
 - [解决Windows 11下蓝牙“闪退”、搜不到设备问题](https://shiquda.link/solve-annoying-bluetooth-problem-on-windows-11)
 - [解决imgur图片无法加载的问题](https://shiquda.link/load-imgur-images)
 - [P1120 小木棍](https://shiquda.link/P1120)
 - [P1434 [SHOI2002] 滑雪](https://shiquda.link/articles/2024/05/28/1716902917595.html)
-- [P1535 [USACO08MAR] Cow Travelling S](https://shiquda.link/P1535)
 <!-- BLOG-POST-LIST:END -->
 
 ## Some platforms
