@@ -41,6 +41,12 @@
 
 ![Steam Card](https://card.yuy1n.io/card/76561199045221076/tokyonight,en,bg-FF0000-0033FF,games)
 
+### 阅读
+
+使用我写的 [wereadcard](https://github.com/shiquda/wereadcard) 项目生成。
+
+![Weread Card](https://github.com/shiquda/wereadcard/raw/main/output/recent_read.svg)
+
 <!--
 **shiquda/shiquda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
