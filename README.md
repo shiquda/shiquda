@@ -28,11 +28,11 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [免费批量下载无损高音质音乐教程](https://shiquda.link/batch-download-high-quality-music)
 - [wereadcard：微信读书卡片生成器](https://shiquda.link/weread-card-project)
 - [你真的是墙头草吗？](https://shiquda.link/are-you-a-wallflower)
 - [解决Windows 11下蓝牙“闪退”、搜不到设备问题](https://shiquda.link/solve-annoying-bluetooth-problem-on-windows-11)
 - [解决imgur图片无法加载的问题](https://shiquda.link/load-imgur-images)
-- [P1120 小木棍](https://shiquda.link/P1120)
 <!-- BLOG-POST-LIST:END -->
 
 ## Some platforms
