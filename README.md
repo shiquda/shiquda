@@ -13,11 +13,11 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shiquda&theme=vue-dark&show_icons=true&hide=SCSS)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#5](https://github.com/shiquda/shiquda_UserScript/issues/5#issuecomment-2295521090) in [shiquda/shiquda_UserScript](https://github.com/shiquda/shiquda_UserScript)
-2. ❗ Opened issue [#2169](https://github.com/Crossbell-Box/xLog/issues/2169) in [Crossbell-Box/xLog](https://github.com/Crossbell-Box/xLog)
-3. ❗ Opened issue [#10](https://github.com/HanYaodong/BilibiliSponsorBlock/issues/10) in [HanYaodong/BilibiliSponsorBlock](https://github.com/HanYaodong/BilibiliSponsorBlock)
-4. 🗣 Commented on [#24](https://github.com/lanqian528/chat2api/issues/24#issuecomment-2164858499) in [lanqian528/chat2api](https://github.com/lanqian528/chat2api)
-5. 🗣 Commented on [#24](https://github.com/lanqian528/chat2api/issues/24#issuecomment-2161186530) in [lanqian528/chat2api](https://github.com/lanqian528/chat2api)
+1. ❗ Opened issue [#4](https://github.com/dracula/zotero/issues/4) in [dracula/zotero](https://github.com/dracula/zotero)
+2. 🗣 Commented on [#5](https://github.com/shiquda/shiquda_UserScript/issues/5#issuecomment-2295521090) in [shiquda/shiquda_UserScript](https://github.com/shiquda/shiquda_UserScript)
+3. ❗ Opened issue [#2169](https://github.com/Crossbell-Box/xLog/issues/2169) in [Crossbell-Box/xLog](https://github.com/Crossbell-Box/xLog)
+4. ❗ Opened issue [#10](https://github.com/HanYaodong/BilibiliSponsorBlock/issues/10) in [HanYaodong/BilibiliSponsorBlock](https://github.com/HanYaodong/BilibiliSponsorBlock)
+5. 🗣 Commented on [#24](https://github.com/lanqian528/chat2api/issues/24#issuecomment-2164858499) in [lanqian528/chat2api](https://github.com/lanqian528/chat2api)
 <!--END_SECTION:activity-->
 
 <picture>
