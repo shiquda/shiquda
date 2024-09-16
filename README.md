@@ -13,11 +13,11 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shiquda&theme=vue-dark&show_icons=true&hide=SCSS)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#6](https://github.com/shiquda/shiquda_UserScript/issues/6#issuecomment-2351907705) in [shiquda/shiquda_UserScript](https://github.com/shiquda/shiquda_UserScript)
-2. 🗣 Commented on [#28](https://github.com/twikoojs/twikoo/issues/28#issuecomment-2342528024) in [twikoojs/twikoo](https://github.com/twikoojs/twikoo)
-3. 🗣 Commented on [#577](https://github.com/twikoojs/twikoo/issues/577#issuecomment-2342524513) in [twikoojs/twikoo](https://github.com/twikoojs/twikoo)
-4. 🗣 Commented on [#84](https://github.com/garrettj403/SciencePlots/issues/84#issuecomment-2323297933) in [garrettj403/SciencePlots](https://github.com/garrettj403/SciencePlots)
-5. ❗ Opened issue [#4](https://github.com/dracula/zotero/issues/4) in [dracula/zotero](https://github.com/dracula/zotero)
+1. 💪 Opened PR [#443](https://github.com/RSSNext/Follow/pull/443) in [RSSNext/Follow](https://github.com/RSSNext/Follow)
+2. 🗣 Commented on [#6](https://github.com/shiquda/shiquda_UserScript/issues/6#issuecomment-2351907705) in [shiquda/shiquda_UserScript](https://github.com/shiquda/shiquda_UserScript)
+3. 🗣 Commented on [#28](https://github.com/twikoojs/twikoo/issues/28#issuecomment-2342528024) in [twikoojs/twikoo](https://github.com/twikoojs/twikoo)
+4. 🗣 Commented on [#577](https://github.com/twikoojs/twikoo/issues/577#issuecomment-2342524513) in [twikoojs/twikoo](https://github.com/twikoojs/twikoo)
+5. 🗣 Commented on [#84](https://github.com/garrettj403/SciencePlots/issues/84#issuecomment-2323297933) in [garrettj403/SciencePlots](https://github.com/garrettj403/SciencePlots)
 <!--END_SECTION:activity-->
 
 <picture>
