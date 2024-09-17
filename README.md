@@ -28,7 +28,7 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [寻觅周刊 第1期](https://shiquda.link/seeking-weekly-1/)
+- [寻觅周刊 第1期：寻觅](https://shiquda.link/seeking-weekly-1/)
 - [微信读书已购图书下载](https://shiquda.link/download-weread-books/)
 - [Hexo!](https://shiquda.link/move-to-hexo/)
 - [Windows下 Vim for VSCode 使用大小写切换键 CapsLock 代替 Esc](https://shiquda.link/windows-vim-for-vscode-use-capslock-instead-of-esc/)
