@@ -28,11 +28,11 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [寻觅周刊 第2期：信源](https://shiquda.link/seeking-weekly-2/)
 - [寻觅周刊 第1期：寻觅](https://shiquda.link/seeking-weekly-1/)
 - [微信读书已购图书下载](https://shiquda.link/download-weread-books/)
 - [Hexo!](https://shiquda.link/move-to-hexo/)
 - [Windows下 Vim for VSCode 使用大小写切换键 CapsLock 代替 Esc](https://shiquda.link/windows-vim-for-vscode-use-capslock-instead-of-esc/)
-- [免费批量下载无损高音质音乐教程](https://shiquda.link/batch-download-high-quality-music/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Some platforms
