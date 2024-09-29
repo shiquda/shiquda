@@ -13,11 +13,11 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shiquda&theme=vue-dark&show_icons=true&hide=SCSS)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#12](https://github.com/ohnonoyesyes/zsxq_dl/issues/12#issuecomment-2380414659) in [ohnonoyesyes/zsxq_dl](https://github.com/ohnonoyesyes/zsxq_dl)
-2. ❗ Opened issue [#13](https://github.com/ohnonoyesyes/zsxq_dl/issues/13) in [ohnonoyesyes/zsxq_dl](https://github.com/ohnonoyesyes/zsxq_dl)
-3. 🗣 Commented on [#1](https://github.com/yz0812/tabGo/pull/1#issuecomment-2378903504) in [yz0812/tabGo](https://github.com/yz0812/tabGo)
-4. 💪 Opened PR [#1](https://github.com/yz0812/tabGo/pull/1) in [yz0812/tabGo](https://github.com/yz0812/tabGo)
-5. 🗣 Commented on [#1](https://github.com/3plus10i/TexCopyer/pull/1#issuecomment-2373197869) in [3plus10i/TexCopyer](https://github.com/3plus10i/TexCopyer)
+1. 🗣 Commented on [#1](https://github.com/shiquda/zsxq-dl-fix/issues/1#issuecomment-2381095021) in [shiquda/zsxq-dl-fix](https://github.com/shiquda/zsxq-dl-fix)
+2. 🗣 Commented on [#12](https://github.com/ohnonoyesyes/zsxq_dl/issues/12#issuecomment-2380414659) in [ohnonoyesyes/zsxq_dl](https://github.com/ohnonoyesyes/zsxq_dl)
+3. ❗ Opened issue [#13](https://github.com/ohnonoyesyes/zsxq_dl/issues/13) in [ohnonoyesyes/zsxq_dl](https://github.com/ohnonoyesyes/zsxq_dl)
+4. 🗣 Commented on [#1](https://github.com/yz0812/tabGo/pull/1#issuecomment-2378903504) in [yz0812/tabGo](https://github.com/yz0812/tabGo)
+5. 💪 Opened PR [#1](https://github.com/yz0812/tabGo/pull/1) in [yz0812/tabGo](https://github.com/yz0812/tabGo)
 <!--END_SECTION:activity-->
 
 <picture>
