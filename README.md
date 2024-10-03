@@ -10,7 +10,7 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shiquda&theme=vue-dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shiquda&theme=vue-dark&show_icons=true&hide=SCSS)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shiquda&theme=vue-dark&show_icons=true&hide=SCSS,Jupyter%20Notebook)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#1](https://github.com/shiquda/zsxq-dl-fix/issues/1#issuecomment-2381112800) in [shiquda/zsxq-dl-fix](https://github.com/shiquda/zsxq-dl-fix)
@@ -36,10 +36,6 @@
 <!-- BLOG-POST-LIST:END -->
 
 ## Some platforms
-
-### Steam
-
-![Steam Card](https://card.yuy1n.io/card/76561199045221076/tokyonight,en,bg-FF0000-0033FF,games)
 
 ### 阅读
 
