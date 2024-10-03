@@ -1,8 +1,9 @@
 # Hi there 👋
 
 - 👋 Hi! I'm shiquda!
-- 📖 I’m a freshman in Tongji University;
-- 🌱 I’m currently learning Python and C++;
+- ✨ I'm an **open-source lover** and **avid reader** & **sharer**;
+- 📖 I’m a Sophomore in Tongji University;
+- 🌱 I’m currently learning algorithm and data structure;
 
 ## Stats
 
