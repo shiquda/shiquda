@@ -27,7 +27,7 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/shiquda/shiquda/output/github-contribution-grid-snake.svg">
 </picture>
 
-## Blog posts
+## [Blog](https://shiquda.link/) posts
 <!-- BLOG-POST-LIST:START -->
 - [寻觅周刊 第3期：众包](https://shiquda.link/seeking-weekly-3/)
 - [寻觅周刊 第2期：信源](https://shiquda.link/seeking-weekly-2/)
