@@ -14,11 +14,11 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shiquda&theme=vue-dark&show_icons=true&hide=SCSS,Jupyter%20Notebook)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#16](https://github.com/pnd280/complexity/issues/16#issuecomment-2395030710) in [pnd280/complexity](https://github.com/pnd280/complexity)
-2. 🔒 Closed issue [#16](https://github.com/pnd280/complexity/issues/16) in [pnd280/complexity](https://github.com/pnd280/complexity)
-3. ❗ Opened issue [#16](https://github.com/pnd280/complexity/issues/16) in [pnd280/complexity](https://github.com/pnd280/complexity)
-4. 🗣 Commented on [#256](https://github.com/RSSNext/Follow/issues/256#issuecomment-2394987588) in [RSSNext/Follow](https://github.com/RSSNext/Follow)
-5. 🗣 Commented on [#1](https://github.com/shiquda/zsxq-dl-fix/issues/1#issuecomment-2381112800) in [shiquda/zsxq-dl-fix](https://github.com/shiquda/zsxq-dl-fix)
+1. ❗ Opened issue [#1970](https://github.com/KRTirtho/spotube/issues/1970) in [KRTirtho/spotube](https://github.com/KRTirtho/spotube)
+2. 🗣 Commented on [#16](https://github.com/pnd280/complexity/issues/16#issuecomment-2395030710) in [pnd280/complexity](https://github.com/pnd280/complexity)
+3. 🔒 Closed issue [#16](https://github.com/pnd280/complexity/issues/16) in [pnd280/complexity](https://github.com/pnd280/complexity)
+4. ❗ Opened issue [#16](https://github.com/pnd280/complexity/issues/16) in [pnd280/complexity](https://github.com/pnd280/complexity)
+5. 🗣 Commented on [#256](https://github.com/RSSNext/Follow/issues/256#issuecomment-2394987588) in [RSSNext/Follow](https://github.com/RSSNext/Follow)
 <!--END_SECTION:activity-->
 
 <picture>
