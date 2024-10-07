@@ -14,11 +14,11 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shiquda&theme=vue-dark&show_icons=true&hide=SCSS,Jupyter%20Notebook)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#857](https://github.com/RealKai42/qwerty-learner/pull/857) in [RealKai42/qwerty-learner](https://github.com/RealKai42/qwerty-learner)
-2. 🗣 Commented on [#744](https://github.com/nathom/streamrip/issues/744#issuecomment-2395800184) in [nathom/streamrip](https://github.com/nathom/streamrip)
-3. ❗ Opened issue [#1970](https://github.com/KRTirtho/spotube/issues/1970) in [KRTirtho/spotube](https://github.com/KRTirtho/spotube)
-4. 🗣 Commented on [#16](https://github.com/pnd280/complexity/issues/16#issuecomment-2395030710) in [pnd280/complexity](https://github.com/pnd280/complexity)
-5. 🔒 Closed issue [#16](https://github.com/pnd280/complexity/issues/16) in [pnd280/complexity](https://github.com/pnd280/complexity)
+1. ❗ Opened issue [#4](https://github.com/demegire/wiki-journey/issues/4) in [demegire/wiki-journey](https://github.com/demegire/wiki-journey)
+2. 💪 Opened PR [#857](https://github.com/RealKai42/qwerty-learner/pull/857) in [RealKai42/qwerty-learner](https://github.com/RealKai42/qwerty-learner)
+3. 🗣 Commented on [#744](https://github.com/nathom/streamrip/issues/744#issuecomment-2395800184) in [nathom/streamrip](https://github.com/nathom/streamrip)
+4. ❗ Opened issue [#1970](https://github.com/KRTirtho/spotube/issues/1970) in [KRTirtho/spotube](https://github.com/KRTirtho/spotube)
+5. 🗣 Commented on [#16](https://github.com/pnd280/complexity/issues/16#issuecomment-2395030710) in [pnd280/complexity](https://github.com/pnd280/complexity)
 <!--END_SECTION:activity-->
 
 <picture>
