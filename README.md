@@ -29,11 +29,11 @@
 
 ## [Blog](https://shiquda.link/) posts
 <!-- BLOG-POST-LIST:START -->
+- [浏览器扩展逆向指北](https://shiquda.link/guide-on-browser-extension-inverse-engineering/)
 - [寻觅周刊 第4期：工具](https://shiquda.link/seeking-weekly-4/)
 - [寻觅周刊 第3期：众包](https://shiquda.link/seeking-weekly-3/)
 - [寻觅周刊 第2期：信源](https://shiquda.link/seeking-weekly-2/)
 - [寻觅周刊 第1期：寻觅](https://shiquda.link/seeking-weekly-1/)
-- [微信读书已购图书下载](https://shiquda.link/download-weread-books/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Some platforms
