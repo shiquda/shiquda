@@ -14,11 +14,11 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shiquda&theme=vue-dark&show_icons=true&hide=SCSS,Jupyter%20Notebook)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#9](https://github.com/Ac-Wiki/AcWiKi/pull/9) in [Ac-Wiki/AcWiKi](https://github.com/Ac-Wiki/AcWiKi)
-2. 💪 Opened PR [#116](https://github.com/word-hunter/word-hunter/pull/116) in [word-hunter/word-hunter](https://github.com/word-hunter/word-hunter)
-3. 🗣 Commented on [#1970](https://github.com/KRTirtho/spotube/issues/1970#issuecomment-2408830445) in [KRTirtho/spotube](https://github.com/KRTirtho/spotube)
-4. 🗣 Commented on [#1](https://github.com/3plus10i/TexCopyer/pull/1#issuecomment-2406487477) in [3plus10i/TexCopyer](https://github.com/3plus10i/TexCopyer)
-5. ❗ Opened issue [#4](https://github.com/demegire/wiki-journey/issues/4) in [demegire/wiki-journey](https://github.com/demegire/wiki-journey)
+1. 🎉 Merged PR [#10](https://github.com/Ac-Wiki/AcWiKi/pull/10) in [Ac-Wiki/AcWiKi](https://github.com/Ac-Wiki/AcWiKi)
+2. 💪 Opened PR [#10](https://github.com/Ac-Wiki/AcWiKi/pull/10) in [Ac-Wiki/AcWiKi](https://github.com/Ac-Wiki/AcWiKi)
+3. 💪 Opened PR [#9](https://github.com/Ac-Wiki/AcWiKi/pull/9) in [Ac-Wiki/AcWiKi](https://github.com/Ac-Wiki/AcWiKi)
+4. 💪 Opened PR [#116](https://github.com/word-hunter/word-hunter/pull/116) in [word-hunter/word-hunter](https://github.com/word-hunter/word-hunter)
+5. 🗣 Commented on [#1970](https://github.com/KRTirtho/spotube/issues/1970#issuecomment-2408830445) in [KRTirtho/spotube](https://github.com/KRTirtho/spotube)
 <!--END_SECTION:activity-->
 
 <picture>
