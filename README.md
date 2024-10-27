@@ -14,11 +14,11 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shiquda&theme=vue-dark&show_icons=true&hide=SCSS,Jupyter%20Notebook)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#35](https://github.com/Ac-Wiki/AcWiKi/pull/35) in [Ac-Wiki/AcWiKi](https://github.com/Ac-Wiki/AcWiKi)
-2. 💪 Opened PR [#28](https://github.com/Ac-Wiki/AcWiKi/pull/28) in [Ac-Wiki/AcWiKi](https://github.com/Ac-Wiki/AcWiKi)
-3. 🗣 Commented on [#27](https://github.com/Ac-Wiki/AcWiKi/pull/27#issuecomment-2432629336) in [Ac-Wiki/AcWiKi](https://github.com/Ac-Wiki/AcWiKi)
-4. 💪 Opened PR [#27](https://github.com/Ac-Wiki/AcWiKi/pull/27) in [Ac-Wiki/AcWiKi](https://github.com/Ac-Wiki/AcWiKi)
-5. 🎉 Merged PR [#12](https://github.com/Ac-Wiki/AcWiKi/pull/12) in [Ac-Wiki/AcWiKi](https://github.com/Ac-Wiki/AcWiKi)
+1. 🗣 Commented on [#110](https://github.com/cloud-fs/cloud-fs.github.io/issues/110#issuecomment-2439925487) in [cloud-fs/cloud-fs.github.io](https://github.com/cloud-fs/cloud-fs.github.io)
+2. 💪 Opened PR [#35](https://github.com/Ac-Wiki/AcWiKi/pull/35) in [Ac-Wiki/AcWiKi](https://github.com/Ac-Wiki/AcWiKi)
+3. 💪 Opened PR [#28](https://github.com/Ac-Wiki/AcWiKi/pull/28) in [Ac-Wiki/AcWiKi](https://github.com/Ac-Wiki/AcWiKi)
+4. 🗣 Commented on [#27](https://github.com/Ac-Wiki/AcWiKi/pull/27#issuecomment-2432629336) in [Ac-Wiki/AcWiKi](https://github.com/Ac-Wiki/AcWiKi)
+5. 💪 Opened PR [#27](https://github.com/Ac-Wiki/AcWiKi/pull/27) in [Ac-Wiki/AcWiKi](https://github.com/Ac-Wiki/AcWiKi)
 <!--END_SECTION:activity-->
 
 <picture>
