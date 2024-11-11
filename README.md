@@ -29,11 +29,11 @@
 
 ## [Blog](https://shiquda.link/) posts
 <!-- BLOG-POST-LIST:START -->
+- [播客的独特之处](https://shiquda.link/why-is-podcast-special/)
 - [寻觅周刊 第6期：告别](https://shiquda.link/seeking-weekly-6/)
 - [寻觅周刊 第5期：emoji](https://shiquda.link/seeking-weekly-5/)
 - [浏览器扩展逆向指北](https://shiquda.link/guide-on-browser-extension-inverse-engineering/)
 - [寻觅周刊 第4期：工具](https://shiquda.link/seeking-weekly-4/)
-- [寻觅周刊 第3期：众包](https://shiquda.link/seeking-weekly-3/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Some platforms
