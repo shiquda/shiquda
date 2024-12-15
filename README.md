@@ -49,11 +49,11 @@
 
 ## [Blog](https://shiquda.link/) posts
 <!-- BLOG-POST-LIST:START -->
+- [赚钱的三个层次](https://shiquda.link/three-levels-of-earning/)
 - [Crypto Monitor：跨平台的币圈桌面盯盘悬浮窗](https://shiquda.link/introducing-crypto-monitor/)
 - [播客的独特之处](https://shiquda.link/why-is-podcast-special/)
 - [寻觅周刊 第6期：告别](https://shiquda.link/seeking-weekly-6/)
 - [寻觅周刊 第5期：emoji](https://shiquda.link/seeking-weekly-5/)
-- [浏览器扩展逆向指北](https://shiquda.link/guide-on-browser-extension-inverse-engineering/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Some platforms
