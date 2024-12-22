@@ -34,7 +34,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shiquda&theme=vue-dark&show_icons=true&hide=SCSS,Jupyter%20Notebook)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2593](https://github.com/tangly1024/NotionNext/issues/2593#issuecomment-2497206843) in [tangly1024/NotionNext](https://github.com/tangly1024/NotionNext)
+1. ❗ Opened issue [#109](https://github.com/xjw580/Hearthstone-Script/issues/109) in [xjw580/Hearthstone-Script](https://github.com/xjw580/Hearthstone-Script)
 2. 🗣 Commented on [#185](https://github.com/PasteBar/PasteBarApp/issues/185#issuecomment-2480984818) in [PasteBar/PasteBarApp](https://github.com/PasteBar/PasteBarApp)
 3. 🗣 Commented on [#185](https://github.com/PasteBar/PasteBarApp/issues/185#issuecomment-2480979660) in [PasteBar/PasteBarApp](https://github.com/PasteBar/PasteBarApp)
 4. 🗣 Commented on [#185](https://github.com/PasteBar/PasteBarApp/issues/185#issuecomment-2480977187) in [PasteBar/PasteBarApp](https://github.com/PasteBar/PasteBarApp)
