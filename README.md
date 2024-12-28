@@ -49,11 +49,11 @@
 
 ## [Blog](https://shiquda.link/) posts
 <!-- BLOG-POST-LIST:START -->
+- [LLM提示词的简单技巧：STAR](https://shiquda.link/tip-on-llm-prompt-star/)
 - [赚钱的三个层次](https://shiquda.link/three-levels-of-earning/)
 - [Crypto Monitor：跨平台的币圈桌面盯盘悬浮窗](https://shiquda.link/introducing-crypto-monitor/)
 - [播客的独特之处](https://shiquda.link/why-is-podcast-special/)
 - [寻觅周刊 第6期：告别](https://shiquda.link/seeking-weekly-6/)
-- [寻觅周刊 第5期：emoji](https://shiquda.link/seeking-weekly-5/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Some platforms
