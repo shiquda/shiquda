@@ -34,7 +34,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shiquda&theme=vue-dark&show_icons=true&hide=SCSS,Jupyter%20Notebook)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#2](https://github.com/shiquda/zsxq-dl-fix/issues/2) in [shiquda/zsxq-dl-fix](https://github.com/shiquda/zsxq-dl-fix)
+1. 🗣 Commented on [#3](https://github.com/shiquda/zsxq-dl-fix/issues/3#issuecomment-2664535447) in [shiquda/zsxq-dl-fix](https://github.com/shiquda/zsxq-dl-fix)
 2. 🗣 Commented on [#2](https://github.com/shiquda/zsxq-dl-fix/issues/2#issuecomment-2567411075) in [shiquda/zsxq-dl-fix](https://github.com/shiquda/zsxq-dl-fix)
 3. 🗣 Commented on [#2](https://github.com/shiquda/zsxq-dl-fix/issues/2#issuecomment-2567040766) in [shiquda/zsxq-dl-fix](https://github.com/shiquda/zsxq-dl-fix)
 4. 🗣 Commented on [#109](https://github.com/xjw580/Hearthstone-Script/issues/109#issuecomment-2558334096) in [xjw580/Hearthstone-Script](https://github.com/xjw580/Hearthstone-Script)
