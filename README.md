@@ -34,11 +34,11 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shiquda&theme=vue-dark&show_icons=true&hide=SCSS,Jupyter%20Notebook)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#22](https://github.com/CherryHQ/cherry-studio-docs/pull/22) in [CherryHQ/cherry-studio-docs](https://github.com/CherryHQ/cherry-studio-docs)
-2. 🗣 Commented on [#13](https://github.com/CherryHQ/cherry-studio-docs/issues/13#issuecomment-2687624594) in [CherryHQ/cherry-studio-docs](https://github.com/CherryHQ/cherry-studio-docs)
-3. 💪 Opened PR [#2431](https://github.com/CherryHQ/cherry-studio/pull/2431) in [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio)
-4. 🗣 Commented on [#2421](https://github.com/CherryHQ/cherry-studio/issues/2421#issuecomment-2684347092) in [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio)
-5. 🔒 Closed issue [#2421](https://github.com/CherryHQ/cherry-studio/issues/2421) in [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio)
+1. 🔒 Closed issue [#3](https://github.com/shiquda/zsxq-dl-fix/issues/3) in [shiquda/zsxq-dl-fix](https://github.com/shiquda/zsxq-dl-fix)
+2. 💪 Opened PR [#22](https://github.com/CherryHQ/cherry-studio-docs/pull/22) in [CherryHQ/cherry-studio-docs](https://github.com/CherryHQ/cherry-studio-docs)
+3. 🗣 Commented on [#13](https://github.com/CherryHQ/cherry-studio-docs/issues/13#issuecomment-2687624594) in [CherryHQ/cherry-studio-docs](https://github.com/CherryHQ/cherry-studio-docs)
+4. 💪 Opened PR [#2431](https://github.com/CherryHQ/cherry-studio/pull/2431) in [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio)
+5. 🗣 Commented on [#2421](https://github.com/CherryHQ/cherry-studio/issues/2421#issuecomment-2684347092) in [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio)
 <!--END_SECTION:activity-->
 
 <picture>
