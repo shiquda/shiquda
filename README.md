@@ -49,11 +49,11 @@
 
 ## [Blog](https://shiquda.link/) posts
 <!-- BLOG-POST-LIST:START -->
+- [git merge vs rebase](https://shiquda.link/git-merge-vs-rebase/)
 - [Youtube 下载整个列表的视频（包括付费视频）](https://shiquda.link/download-youtube-videos-from-list/)
 - [2024++](https://shiquda.link/2024-plus-plus/)
 - [利用AHK实现在Zotero中使用侧键返回](https://shiquda.link/use-ahk-to-implement-back-navigation-with-side-button-of-mouse-in-zotero/)
 - [LLM提示词的简单技巧：STAR](https://shiquda.link/tip-on-llm-prompt-star/)
-- [赚钱的三个层次](https://shiquda.link/three-levels-of-earning/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Some platforms
