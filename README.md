@@ -49,11 +49,11 @@
 
 ## [Blog](https://shiquda.link/) posts
 <!-- BLOG-POST-LIST:START -->
+- [VSCode 快捷键推荐](https://shiquda.link/vscode-hotkey-suggestions/)
 - [git merge vs rebase](https://shiquda.link/git-merge-vs-rebase/)
 - [Youtube 下载整个列表的视频（包括付费视频）](https://shiquda.link/download-youtube-videos-from-list/)
 - [2024++](https://shiquda.link/2024-plus-plus/)
 - [利用AHK实现在Zotero中使用侧键返回](https://shiquda.link/use-ahk-to-implement-back-navigation-with-side-button-of-mouse-in-zotero/)
-- [LLM提示词的简单技巧：STAR](https://shiquda.link/tip-on-llm-prompt-star/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Some platforms
