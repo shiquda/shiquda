@@ -49,11 +49,11 @@
 
 ## [Blog](https://shiquda.link/) posts
 <!-- BLOG-POST-LIST:START -->
+- [大语言模型时代学习者的提问方式](https://shiquda.link/how-to-ask-for-learners-in-llm-era/)
 - [Future Fortune——长期投资计算器](https://shiquda.link/future-fortune/)
 - [VSCode 快捷键推荐](https://shiquda.link/vscode-hotkey-suggestions/)
 - [git merge vs rebase](https://shiquda.link/git-merge-vs-rebase/)
 - [Youtube 下载整个列表的视频（包括付费视频）](https://shiquda.link/download-youtube-videos-from-list/)
-- [2024++](https://shiquda.link/2024-plus-plus/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Some platforms
