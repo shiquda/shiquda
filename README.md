@@ -34,11 +34,11 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shiquda&theme=vue-dark&show_icons=true&hide=SCSS,Jupyter%20Notebook)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#3400](https://github.com/CherryHQ/cherry-studio/pull/3400) in [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio)
-2. ❗ Opened issue [#158](https://github.com/funstory-ai/BabelDOC/issues/158) in [funstory-ai/BabelDOC](https://github.com/funstory-ai/BabelDOC)
-3. 💪 Opened PR [#3354](https://github.com/CherryHQ/cherry-studio/pull/3354) in [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio)
-4. 🗣 Commented on [#2562](https://github.com/CherryHQ/cherry-studio/pull/2562#issuecomment-2724782261) in [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio)
-5. ❗ Opened issue [#3341](https://github.com/CherryHQ/cherry-studio/issues/3341) in [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio)
+1. 🗣 Commented on [#3354](https://github.com/CherryHQ/cherry-studio/pull/3354#issuecomment-2726470220) in [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio)
+2. 💪 Opened PR [#3400](https://github.com/CherryHQ/cherry-studio/pull/3400) in [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio)
+3. ❗ Opened issue [#158](https://github.com/funstory-ai/BabelDOC/issues/158) in [funstory-ai/BabelDOC](https://github.com/funstory-ai/BabelDOC)
+4. 💪 Opened PR [#3354](https://github.com/CherryHQ/cherry-studio/pull/3354) in [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio)
+5. 🗣 Commented on [#2562](https://github.com/CherryHQ/cherry-studio/pull/2562#issuecomment-2724782261) in [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio)
 <!--END_SECTION:activity-->
 
 <picture>
