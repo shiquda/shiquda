@@ -34,11 +34,11 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shiquda&theme=vue-dark&show_icons=true&hide=SCSS,Jupyter%20Notebook)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#3341](https://github.com/CherryHQ/cherry-studio/issues/3341) in [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio)
-2. 🗣 Commented on [#3263](https://github.com/CherryHQ/cherry-studio/issues/3263#issuecomment-2720035334) in [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio)
-3. 🗣 Commented on [#3263](https://github.com/CherryHQ/cherry-studio/issues/3263#issuecomment-2719948082) in [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio)
-4. ❗ Opened issue [#4](https://github.com/boilcy/CherryCSS/issues/4) in [boilcy/CherryCSS](https://github.com/boilcy/CherryCSS)
-5. 🗣 Commented on [#3125](https://github.com/CherryHQ/cherry-studio/pull/3125#issuecomment-2709675470) in [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio)
+1. 🗣 Commented on [#2562](https://github.com/CherryHQ/cherry-studio/pull/2562#issuecomment-2724782261) in [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio)
+2. ❗ Opened issue [#3341](https://github.com/CherryHQ/cherry-studio/issues/3341) in [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio)
+3. 🗣 Commented on [#3263](https://github.com/CherryHQ/cherry-studio/issues/3263#issuecomment-2720035334) in [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio)
+4. 🗣 Commented on [#3263](https://github.com/CherryHQ/cherry-studio/issues/3263#issuecomment-2719948082) in [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio)
+5. ❗ Opened issue [#4](https://github.com/boilcy/CherryCSS/issues/4) in [boilcy/CherryCSS](https://github.com/boilcy/CherryCSS)
 <!--END_SECTION:activity-->
 
 <picture>
