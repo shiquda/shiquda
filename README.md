@@ -49,7 +49,7 @@
 
 ## [Blog](https://shiquda.link/) posts
 <!-- BLOG-POST-LIST:START -->
-- [思维碎片记录与展示的好方式：TG个人频道](https://shiquda.link/good-way-to-record-and-show-my-thoughts/)
+- [从零开始搭建一个MCP服务器](https://shiquda.link/build-a-mcp-server-with-python-from-scratch/)
 - [大语言模型时代学习者的提问方式](https://shiquda.link/how-to-ask-for-learners-in-llm-era/)
 - [Future Fortune——长期投资计算器](https://shiquda.link/future-fortune/)
 - [VSCode 快捷键推荐](https://shiquda.link/vscode-hotkey-suggestions/)
