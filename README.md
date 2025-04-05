@@ -34,11 +34,11 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shiquda&theme=vue-dark&show_icons=true&hide=SCSS,Jupyter%20Notebook)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [0.0.1](https://github.com/shiquda/mediawiki-mcp-server/releases/tag/0.0.1) in [shiquda/mediawiki-mcp-server](https://github.com/shiquda/mediawiki-mcp-server)
-2. ❗ Opened issue [#4339](https://github.com/CherryHQ/cherry-studio/issues/4339) in [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio)
-3. ❗ Opened issue [#1012](https://github.com/dracula/dracula-theme/issues/1012) in [dracula/dracula-theme](https://github.com/dracula/dracula-theme)
-4. ❗ Opened issue [#4283](https://github.com/CherryHQ/cherry-studio/issues/4283) in [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio)
-5. 💪 Opened PR [#4281](https://github.com/CherryHQ/cherry-studio/pull/4281) in [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio)
+1. 🎉 Merged PR [#1](https://github.com/shiquda/mediawiki-mcp-server/pull/1) in [shiquda/mediawiki-mcp-server](https://github.com/shiquda/mediawiki-mcp-server)
+2. 🚀 Published release [0.0.1](https://github.com/shiquda/mediawiki-mcp-server/releases/tag/0.0.1) in [shiquda/mediawiki-mcp-server](https://github.com/shiquda/mediawiki-mcp-server)
+3. ❗ Opened issue [#4339](https://github.com/CherryHQ/cherry-studio/issues/4339) in [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio)
+4. ❗ Opened issue [#1012](https://github.com/dracula/dracula-theme/issues/1012) in [dracula/dracula-theme](https://github.com/dracula/dracula-theme)
+5. ❗ Opened issue [#4283](https://github.com/CherryHQ/cherry-studio/issues/4283) in [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio)
 <!--END_SECTION:activity-->
 
 <picture>
