@@ -49,11 +49,11 @@
 
 ## [Blog](https://shiquda.link/) posts
 <!-- BLOG-POST-LIST:START -->
+- [Treex - 高级命令行目录树可视化工具](https://shiquda.link/treex-an-advanced-cli-directory-tree-visualization/)
 - [从零开始搭建一个MCP服务器](https://shiquda.link/build-a-mcp-server-with-python-from-scratch/)
 - [大语言模型时代学习者的提问方式](https://shiquda.link/how-to-ask-for-learners-in-llm-era/)
 - [Future Fortune——长期投资计算器](https://shiquda.link/future-fortune/)
 - [VSCode 快捷键推荐](https://shiquda.link/vscode-hotkey-suggestions/)
-- [git merge vs rebase](https://shiquda.link/git-merge-vs-rebase/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Some platforms
