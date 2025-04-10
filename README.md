@@ -34,11 +34,11 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shiquda&theme=vue-dark&show_icons=true&hide=SCSS,Jupyter%20Notebook)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3125](https://github.com/CherryHQ/cherry-studio/pull/3125#issuecomment-2785790565) in [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio)
-2. 🎉 Merged PR [#1](https://github.com/shiquda/mediawiki-mcp-server/pull/1) in [shiquda/mediawiki-mcp-server](https://github.com/shiquda/mediawiki-mcp-server)
-3. 🚀 Published release [0.0.1](https://github.com/shiquda/mediawiki-mcp-server/releases/tag/0.0.1) in [shiquda/mediawiki-mcp-server](https://github.com/shiquda/mediawiki-mcp-server)
-4. ❗ Opened issue [#4339](https://github.com/CherryHQ/cherry-studio/issues/4339) in [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio)
-5. ❗ Opened issue [#1012](https://github.com/dracula/dracula-theme/issues/1012) in [dracula/dracula-theme](https://github.com/dracula/dracula-theme)
+1. 🚀 Published release [v0.0.1](https://github.com/shiquda/treex/releases/tag/v0.0.1) in [shiquda/treex](https://github.com/shiquda/treex)
+2. 🚀 Published release [v0.0.1](https://github.com/shiquda/treex/releases/tag/v0.0.1) in [shiquda/treex](https://github.com/shiquda/treex)
+3. 🚀 Published release [v0.0.1](https://github.com/shiquda/treex/releases/tag/v0.0.1) in [shiquda/treex](https://github.com/shiquda/treex)
+4. 🗣 Commented on [#3125](https://github.com/CherryHQ/cherry-studio/pull/3125#issuecomment-2785790565) in [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio)
+5. 🎉 Merged PR [#1](https://github.com/shiquda/mediawiki-mcp-server/pull/1) in [shiquda/mediawiki-mcp-server](https://github.com/shiquda/mediawiki-mcp-server)
 <!--END_SECTION:activity-->
 
 <picture>
