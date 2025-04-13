@@ -34,11 +34,11 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shiquda&theme=vue-dark&show_icons=true&hide=SCSS,Jupyter%20Notebook)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v0.0.2](https://github.com/shiquda/treex/releases/tag/v0.0.2) in [shiquda/treex](https://github.com/shiquda/treex)
-2. 🚀 Published release [v0.0.1](https://github.com/shiquda/treex/releases/tag/v0.0.1) in [shiquda/treex](https://github.com/shiquda/treex)
+1. 🚀 Published release [v0.0.3](https://github.com/shiquda/treex/releases/tag/v0.0.3) in [shiquda/treex](https://github.com/shiquda/treex)
+2. 🚀 Published release [v0.0.2](https://github.com/shiquda/treex/releases/tag/v0.0.2) in [shiquda/treex](https://github.com/shiquda/treex)
 3. 🚀 Published release [v0.0.1](https://github.com/shiquda/treex/releases/tag/v0.0.1) in [shiquda/treex](https://github.com/shiquda/treex)
 4. 🚀 Published release [v0.0.1](https://github.com/shiquda/treex/releases/tag/v0.0.1) in [shiquda/treex](https://github.com/shiquda/treex)
-5. 🗣 Commented on [#3125](https://github.com/CherryHQ/cherry-studio/pull/3125#issuecomment-2785790565) in [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio)
+5. 🚀 Published release [v0.0.1](https://github.com/shiquda/treex/releases/tag/v0.0.1) in [shiquda/treex](https://github.com/shiquda/treex)
 <!--END_SECTION:activity-->
 
 <picture>
