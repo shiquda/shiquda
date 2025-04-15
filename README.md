@@ -1,17 +1,18 @@
 # Hi there 👋
 
 - 👋 Hi! I'm shiquda!
-- ✨ I'm an **open-source lover** and **avid reader** & **sharer**;
 - 📖 I’m a Sophomore in Tongji University;
-- 🌱 I’m currently learning algorithm and data structure;
+- ✨ I love open source and keep building fun projects;
+- 🤔 I enjoy reading, thinking, and sharing ideas;
+- 🌱 I’m currently learning XCPC, golang and blockchain.
 
-## My Favorite
+## Favorites
 
 - Frontend:
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
-![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 - Backend:
 
@@ -19,11 +20,13 @@
 
 - Others:
 
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
-![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)![Obsidian](https://img.shields.io/badge/Obsidian-%23483699.svg?style=for-the-badge&logo=obsidian&logoColor=white)![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)![Obsidian](https://img.shields.io/badge/Obsidian-%23483699.svg?style=for-the-badge&logo=obsidian&logoColor=white)
 
 ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)
+
+![Bitcoin](https://img.shields.io/badge/bitcoin-F7931A?style=for-the-badge&logo=bitcoin&logoColor=white)![Ethereum](https://img.shields.io/badge/Ethereum-007EC6?style=for-the-badge&logo=Ethereum&logoColor=white)
 
 ## Stats
 
@@ -31,7 +34,7 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shiquda&theme=vue-dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shiquda&theme=vue-dark&show_icons=true&hide=SCSS,Jupyter%20Notebook)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shiquda&theme=vue-dark&show_icons=true&hide=SCSS,CSS,Jupyter%20Notebook&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:activity-->
 1. ❗ Opened issue [#59](https://github.com/AyuGram/AyuGramDesktop/issues/59) in [AyuGram/AyuGramDesktop](https://github.com/AyuGram/AyuGramDesktop)
@@ -46,15 +49,6 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shiquda/shiquda/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/shiquda/shiquda/output/github-contribution-grid-snake.svg">
 </picture>
-
-## [Blog](https://shiquda.link/) posts
-<!-- BLOG-POST-LIST:START -->
-- [《金钱心理学》阅读总结](https://shiquda.link/the-psychology-of-money-summary/)
-- [Treex - 高级命令行目录树可视化工具](https://shiquda.link/treex-an-advanced-cli-directory-tree-visualization/)
-- [从零开始搭建一个MCP服务器](https://shiquda.link/build-a-mcp-server-with-python-from-scratch/)
-- [大语言模型时代学习者的提问方式](https://shiquda.link/how-to-ask-for-learners-in-llm-era/)
-- [Future Fortune——长期投资计算器](https://shiquda.link/future-fortune/)
-<!-- BLOG-POST-LIST:END -->
 
 ## Some platforms
 
