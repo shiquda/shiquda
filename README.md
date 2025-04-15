@@ -34,10 +34,10 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shiquda&theme=vue-dark&show_icons=true&hide=SCSS,Jupyter%20Notebook)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#6591](https://github.com/ruanyf/weekly/issues/6591) in [ruanyf/weekly](https://github.com/ruanyf/weekly)
-2. 🚀 Published release [v0.0.3](https://github.com/shiquda/treex/releases/tag/v0.0.3) in [shiquda/treex](https://github.com/shiquda/treex)
-3. 🚀 Published release [v0.0.2](https://github.com/shiquda/treex/releases/tag/v0.0.2) in [shiquda/treex](https://github.com/shiquda/treex)
-4. 🚀 Published release [v0.0.1](https://github.com/shiquda/treex/releases/tag/v0.0.1) in [shiquda/treex](https://github.com/shiquda/treex)
+1. ❗ Opened issue [#59](https://github.com/AyuGram/AyuGramDesktop/issues/59) in [AyuGram/AyuGramDesktop](https://github.com/AyuGram/AyuGramDesktop)
+2. ❗ Opened issue [#6591](https://github.com/ruanyf/weekly/issues/6591) in [ruanyf/weekly](https://github.com/ruanyf/weekly)
+3. 🚀 Published release [v0.0.3](https://github.com/shiquda/treex/releases/tag/v0.0.3) in [shiquda/treex](https://github.com/shiquda/treex)
+4. 🚀 Published release [v0.0.2](https://github.com/shiquda/treex/releases/tag/v0.0.2) in [shiquda/treex](https://github.com/shiquda/treex)
 5. 🚀 Published release [v0.0.1](https://github.com/shiquda/treex/releases/tag/v0.0.1) in [shiquda/treex](https://github.com/shiquda/treex)
 <!--END_SECTION:activity-->
 
