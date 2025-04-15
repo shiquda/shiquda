@@ -50,6 +50,15 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/shiquda/shiquda/output/github-contribution-grid-snake.svg">
 </picture>
 
+### [Blog](https://shiquda.link/) posts
+<!-- BLOG-POST-LIST:START -->
+- [《金钱心理学》阅读总结](https://shiquda.link/the-psychology-of-money-summary/)
+- [Treex - 高级命令行目录树可视化工具](https://shiquda.link/treex-an-advanced-cli-directory-tree-visualization/)
+- [从零开始搭建一个MCP服务器](https://shiquda.link/build-a-mcp-server-with-python-from-scratch/)
+- [大语言模型时代学习者的提问方式](https://shiquda.link/how-to-ask-for-learners-in-llm-era/)
+- [Future Fortune——长期投资计算器](https://shiquda.link/future-fortune/)
+<!-- BLOG-POST-LIST:END -->
+
 ## Some platforms
 
 ### 阅读
