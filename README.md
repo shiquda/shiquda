@@ -37,11 +37,11 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shiquda&theme=vue-dark&show_icons=true&hide=SCSS,CSS,Jupyter%20Notebook&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#5233](https://github.com/CherryHQ/cherry-studio/issues/5233#issuecomment-2823979366) in [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio)
-2. ❗ Opened issue [#5233](https://github.com/CherryHQ/cherry-studio/issues/5233) in [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio)
-3. 🗣 Commented on [#5187](https://github.com/CherryHQ/cherry-studio/issues/5187#issuecomment-2823756090) in [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio)
-4. 🗣 Commented on [#5119](https://github.com/CherryHQ/cherry-studio/issues/5119#issuecomment-2819821923) in [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio)
-5. 🗣 Commented on [#5119](https://github.com/CherryHQ/cherry-studio/issues/5119#issuecomment-2818405289) in [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio)
+1. 💪 Opened PR [#5236](https://github.com/CherryHQ/cherry-studio/pull/5236) in [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio)
+2. 🗣 Commented on [#5233](https://github.com/CherryHQ/cherry-studio/issues/5233#issuecomment-2823979366) in [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio)
+3. ❗ Opened issue [#5233](https://github.com/CherryHQ/cherry-studio/issues/5233) in [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio)
+4. 🗣 Commented on [#5187](https://github.com/CherryHQ/cherry-studio/issues/5187#issuecomment-2823756090) in [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio)
+5. 🗣 Commented on [#5119](https://github.com/CherryHQ/cherry-studio/issues/5119#issuecomment-2819821923) in [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio)
 <!--END_SECTION:activity-->
 
 <picture>
