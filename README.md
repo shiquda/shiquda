@@ -35,11 +35,11 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shiquda&theme=vue-dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shiquda&theme=vue-dark&show_icons=true&hide=SCSS,CSS,Jupyter%20Notebook&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#5358](https://github.com/CherryHQ/cherry-studio/issues/5358) in [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio)
-2. 🗣 Commented on [#5353](https://github.com/CherryHQ/cherry-studio/pull/5353#issuecomment-2830731854) in [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio)
-3. 💪 Opened PR [#5354](https://github.com/CherryHQ/cherry-studio/pull/5354) in [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio)
-4. 🗣 Commented on [#5353](https://github.com/CherryHQ/cherry-studio/pull/5353#issuecomment-2830693118) in [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio)
-5. ❌ Closed PR [#5353](https://github.com/CherryHQ/cherry-studio/pull/5353) in [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio)
+1. ❗ Opened issue [#15351](https://github.com/ScoopInstaller/Extras/issues/15351) in [ScoopInstaller/Extras](https://github.com/ScoopInstaller/Extras)
+2. ❗ Opened issue [#5358](https://github.com/CherryHQ/cherry-studio/issues/5358) in [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio)
+3. 🗣 Commented on [#5353](https://github.com/CherryHQ/cherry-studio/pull/5353#issuecomment-2830731854) in [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio)
+4. 💪 Opened PR [#5354](https://github.com/CherryHQ/cherry-studio/pull/5354) in [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio)
+5. 🗣 Commented on [#5353](https://github.com/CherryHQ/cherry-studio/pull/5353#issuecomment-2830693118) in [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio)
 <!--END_SECTION:activity-->
 
 <picture>
