@@ -35,11 +35,11 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shiquda&theme=vue-dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shiquda&theme=vue-dark&show_icons=true&hide=SCSS,CSS,Jupyter%20Notebook&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#5378](https://github.com/CherryHQ/cherry-studio/pull/5378#issuecomment-2832895155) in [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio)
-2. 💪 Opened PR [#5378](https://github.com/CherryHQ/cherry-studio/pull/5378) in [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio)
-3. 🗣 Commented on [#3978](https://github.com/CherryHQ/cherry-studio/issues/3978#issuecomment-2831808236) in [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio)
-4. 🔒 Closed issue [#3978](https://github.com/CherryHQ/cherry-studio/issues/3978) in [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio)
-5. 🗣 Commented on [#15309](https://github.com/ScoopInstaller/Extras/pull/15309#issuecomment-2831784833) in [ScoopInstaller/Extras](https://github.com/ScoopInstaller/Extras)
+1. 🗣 Commented on [#5378](https://github.com/CherryHQ/cherry-studio/pull/5378#issuecomment-2832910465) in [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio)
+2. 🗣 Commented on [#5378](https://github.com/CherryHQ/cherry-studio/pull/5378#issuecomment-2832902750) in [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio)
+3. 🗣 Commented on [#5378](https://github.com/CherryHQ/cherry-studio/pull/5378#issuecomment-2832895155) in [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio)
+4. 💪 Opened PR [#5378](https://github.com/CherryHQ/cherry-studio/pull/5378) in [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio)
+5. 🗣 Commented on [#3978](https://github.com/CherryHQ/cherry-studio/issues/3978#issuecomment-2831808236) in [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio)
 <!--END_SECTION:activity-->
 
 <picture>
