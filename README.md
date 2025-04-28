@@ -35,11 +35,11 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shiquda&theme=vue-dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shiquda&theme=vue-dark&show_icons=true&hide=SCSS,CSS,Jupyter%20Notebook&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#5354](https://github.com/CherryHQ/cherry-studio/pull/5354#issuecomment-2835104593) in [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio)
-2. ❌ Closed PR [#5354](https://github.com/CherryHQ/cherry-studio/pull/5354) in [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio)
-3. 🗣 Commented on [#5354](https://github.com/CherryHQ/cherry-studio/pull/5354#issuecomment-2835103558) in [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio)
-4. 🗣 Commented on [#8](https://github.com/shiquda/shiquda_UserScript/pull/8#issuecomment-2834859195) in [shiquda/shiquda_UserScript](https://github.com/shiquda/shiquda_UserScript)
-5. 🗣 Commented on [#8](https://github.com/shiquda/shiquda_UserScript/pull/8#issuecomment-2834841573) in [shiquda/shiquda_UserScript](https://github.com/shiquda/shiquda_UserScript)
+1. 🗣 Commented on [#5378](https://github.com/CherryHQ/cherry-studio/pull/5378#issuecomment-2835504502) in [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio)
+2. 🗣 Commented on [#5354](https://github.com/CherryHQ/cherry-studio/pull/5354#issuecomment-2835104593) in [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio)
+3. ❌ Closed PR [#5354](https://github.com/CherryHQ/cherry-studio/pull/5354) in [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio)
+4. 🗣 Commented on [#5354](https://github.com/CherryHQ/cherry-studio/pull/5354#issuecomment-2835103558) in [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio)
+5. 🗣 Commented on [#8](https://github.com/shiquda/shiquda_UserScript/pull/8#issuecomment-2834859195) in [shiquda/shiquda_UserScript](https://github.com/shiquda/shiquda_UserScript)
 <!--END_SECTION:activity-->
 
 <picture>
