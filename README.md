@@ -50,11 +50,11 @@
 
 ### [Blog](https://shiquda.link/) posts
 <!-- BLOG-POST-LIST:START -->
+- [给命令行中的Android sdkmanager配置代理](https://shiquda.link/command-line-android-sdkmanager-proxy/)
 - [Chain Message：利用区块链打造一个的无法被篡改的留言页面](https://shiquda.link/chain-message-immutable-message-board/)
 - [《金钱心理学》阅读总结](https://shiquda.link/the-psychology-of-money-summary/)
 - [Treex - 高级命令行目录树可视化工具](https://shiquda.link/treex-an-advanced-cli-directory-tree-visualization/)
 - [从零开始搭建一个MCP服务器](https://shiquda.link/build-a-mcp-server-with-python-from-scratch/)
-- [大语言模型时代学习者的提问方式](https://shiquda.link/how-to-ask-for-learners-in-llm-era/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Some platforms
