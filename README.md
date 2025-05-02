@@ -35,11 +35,11 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shiquda&theme=vue-dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shiquda&theme=vue-dark&show_icons=true&hide=SCSS,CSS,Jupyter%20Notebook&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2](https://github.com/shiquda/mediawiki-mcp-server/issues/2#issuecomment-2843875424) in [shiquda/mediawiki-mcp-server](https://github.com/shiquda/mediawiki-mcp-server)
-2. ❗ Opened issue [#2](https://github.com/shiquda/treex/issues/2) in [shiquda/treex](https://github.com/shiquda/treex)
-3. 🗣 Commented on [#1](https://github.com/shiquda/treex/issues/1#issuecomment-2837559659) in [shiquda/treex](https://github.com/shiquda/treex)
-4. 🗣 Commented on [#5378](https://github.com/CherryHQ/cherry-studio/pull/5378#issuecomment-2835504502) in [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio)
-5. 🗣 Commented on [#5354](https://github.com/CherryHQ/cherry-studio/pull/5354#issuecomment-2835104593) in [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio)
+1. 🗣 Commented on [#2](https://github.com/shiquda/mediawiki-mcp-server/issues/2#issuecomment-2846195027) in [shiquda/mediawiki-mcp-server](https://github.com/shiquda/mediawiki-mcp-server)
+2. 🗣 Commented on [#2](https://github.com/shiquda/mediawiki-mcp-server/issues/2#issuecomment-2843875424) in [shiquda/mediawiki-mcp-server](https://github.com/shiquda/mediawiki-mcp-server)
+3. ❗ Opened issue [#2](https://github.com/shiquda/treex/issues/2) in [shiquda/treex](https://github.com/shiquda/treex)
+4. 🗣 Commented on [#1](https://github.com/shiquda/treex/issues/1#issuecomment-2837559659) in [shiquda/treex](https://github.com/shiquda/treex)
+5. 🗣 Commented on [#5378](https://github.com/CherryHQ/cherry-studio/pull/5378#issuecomment-2835504502) in [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio)
 <!--END_SECTION:activity-->
 
 <picture>
