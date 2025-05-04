@@ -35,11 +35,11 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shiquda&theme=vue-dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shiquda&theme=vue-dark&show_icons=true&hide=SCSS,CSS,Jupyter%20Notebook&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#5378](https://github.com/CherryHQ/cherry-studio/pull/5378#issuecomment-2849244055) in [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio)
-2. 🗣 Commented on [#5378](https://github.com/CherryHQ/cherry-studio/pull/5378#issuecomment-2848627657) in [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio)
-3. 🗣 Commented on [#2](https://github.com/shiquda/mediawiki-mcp-server/issues/2#issuecomment-2846195027) in [shiquda/mediawiki-mcp-server](https://github.com/shiquda/mediawiki-mcp-server)
-4. 🗣 Commented on [#2](https://github.com/shiquda/mediawiki-mcp-server/issues/2#issuecomment-2843875424) in [shiquda/mediawiki-mcp-server](https://github.com/shiquda/mediawiki-mcp-server)
-5. ❗ Opened issue [#2](https://github.com/shiquda/treex/issues/2) in [shiquda/treex](https://github.com/shiquda/treex)
+1. 🗣 Commented on [#5378](https://github.com/CherryHQ/cherry-studio/pull/5378#issuecomment-2849266011) in [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio)
+2. 🗣 Commented on [#5378](https://github.com/CherryHQ/cherry-studio/pull/5378#issuecomment-2849265434) in [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio)
+3. 🗣 Commented on [#5378](https://github.com/CherryHQ/cherry-studio/pull/5378#issuecomment-2849250204) in [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio)
+4. 🗣 Commented on [#5378](https://github.com/CherryHQ/cherry-studio/pull/5378#issuecomment-2849244055) in [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio)
+5. 🗣 Commented on [#5378](https://github.com/CherryHQ/cherry-studio/pull/5378#issuecomment-2848627657) in [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio)
 <!--END_SECTION:activity-->
 
 <picture>
