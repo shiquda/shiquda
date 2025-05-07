@@ -35,11 +35,11 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shiquda&theme=vue-dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shiquda&theme=vue-dark&show_icons=true&hide=SCSS,CSS,Jupyter%20Notebook&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2](https://github.com/shiquda/mediawiki-mcp-server/issues/2#issuecomment-2855011783) in [shiquda/mediawiki-mcp-server](https://github.com/shiquda/mediawiki-mcp-server)
-2. 💪 Opened PR [#13](https://github.com/anaisbetts/mcp-youtube/pull/13) in [anaisbetts/mcp-youtube](https://github.com/anaisbetts/mcp-youtube)
-3. 🗣 Commented on [#5378](https://github.com/CherryHQ/cherry-studio/pull/5378#issuecomment-2849266011) in [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio)
-4. 🗣 Commented on [#5378](https://github.com/CherryHQ/cherry-studio/pull/5378#issuecomment-2849265434) in [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio)
-5. 🗣 Commented on [#5378](https://github.com/CherryHQ/cherry-studio/pull/5378#issuecomment-2849250204) in [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio)
+1. 🗣 Commented on [#3894](https://github.com/VisActor/VChart/issues/3894#issuecomment-2857142136) in [VisActor/VChart](https://github.com/VisActor/VChart)
+2. 🗣 Commented on [#2](https://github.com/shiquda/mediawiki-mcp-server/issues/2#issuecomment-2855011783) in [shiquda/mediawiki-mcp-server](https://github.com/shiquda/mediawiki-mcp-server)
+3. 💪 Opened PR [#13](https://github.com/anaisbetts/mcp-youtube/pull/13) in [anaisbetts/mcp-youtube](https://github.com/anaisbetts/mcp-youtube)
+4. 🗣 Commented on [#5378](https://github.com/CherryHQ/cherry-studio/pull/5378#issuecomment-2849266011) in [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio)
+5. 🗣 Commented on [#5378](https://github.com/CherryHQ/cherry-studio/pull/5378#issuecomment-2849265434) in [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio)
 <!--END_SECTION:activity-->
 
 <picture>
