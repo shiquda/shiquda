@@ -35,11 +35,11 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shiquda&theme=vue-dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shiquda&theme=vue-dark&show_icons=true&hide=SCSS,CSS,Jupyter%20Notebook&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/shiquda/cf-tool/pull/1) in [shiquda/cf-tool](https://github.com/shiquda/cf-tool)
-2. 💪 Opened PR [#1](https://github.com/shiquda/cf-tool/pull/1) in [shiquda/cf-tool](https://github.com/shiquda/cf-tool)
-3. 🎉 Merged PR [#3](https://github.com/shiquda/mediawiki-mcp-server/pull/3) in [shiquda/mediawiki-mcp-server](https://github.com/shiquda/mediawiki-mcp-server)
-4. 🗣 Commented on [#3](https://github.com/shiquda/mediawiki-mcp-server/pull/3#issuecomment-2878959782) in [shiquda/mediawiki-mcp-server](https://github.com/shiquda/mediawiki-mcp-server)
-5. 💪 Opened PR [#3941](https://github.com/VisActor/VChart/pull/3941) in [VisActor/VChart](https://github.com/VisActor/VChart)
+1. 🗣 Commented on [#3125](https://github.com/CherryHQ/cherry-studio/pull/3125#issuecomment-2891064443) in [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio)
+2. 🎉 Merged PR [#1](https://github.com/shiquda/cf-tool/pull/1) in [shiquda/cf-tool](https://github.com/shiquda/cf-tool)
+3. 💪 Opened PR [#1](https://github.com/shiquda/cf-tool/pull/1) in [shiquda/cf-tool](https://github.com/shiquda/cf-tool)
+4. 🎉 Merged PR [#3](https://github.com/shiquda/mediawiki-mcp-server/pull/3) in [shiquda/mediawiki-mcp-server](https://github.com/shiquda/mediawiki-mcp-server)
+5. 🗣 Commented on [#3](https://github.com/shiquda/mediawiki-mcp-server/pull/3#issuecomment-2878959782) in [shiquda/mediawiki-mcp-server](https://github.com/shiquda/mediawiki-mcp-server)
 <!--END_SECTION:activity-->
 
 <picture>
