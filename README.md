@@ -35,11 +35,11 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shiquda&theme=vue-dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shiquda&theme=vue-dark&show_icons=true&hide=SCSS,CSS,Jupyter%20Notebook&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/shiquda/mediawiki-mcp-server/pull/3) in [shiquda/mediawiki-mcp-server](https://github.com/shiquda/mediawiki-mcp-server)
-2. 🗣 Commented on [#3](https://github.com/shiquda/mediawiki-mcp-server/pull/3#issuecomment-2878959782) in [shiquda/mediawiki-mcp-server](https://github.com/shiquda/mediawiki-mcp-server)
-3. 💪 Opened PR [#3941](https://github.com/VisActor/VChart/pull/3941) in [VisActor/VChart](https://github.com/VisActor/VChart)
-4. 🗣 Commented on [#3894](https://github.com/VisActor/VChart/issues/3894#issuecomment-2857142136) in [VisActor/VChart](https://github.com/VisActor/VChart)
-5. 🗣 Commented on [#2](https://github.com/shiquda/mediawiki-mcp-server/issues/2#issuecomment-2855011783) in [shiquda/mediawiki-mcp-server](https://github.com/shiquda/mediawiki-mcp-server)
+1. 🎉 Merged PR [#1](https://github.com/shiquda/cf-tool/pull/1) in [shiquda/cf-tool](https://github.com/shiquda/cf-tool)
+2. 💪 Opened PR [#1](https://github.com/shiquda/cf-tool/pull/1) in [shiquda/cf-tool](https://github.com/shiquda/cf-tool)
+3. 🎉 Merged PR [#3](https://github.com/shiquda/mediawiki-mcp-server/pull/3) in [shiquda/mediawiki-mcp-server](https://github.com/shiquda/mediawiki-mcp-server)
+4. 🗣 Commented on [#3](https://github.com/shiquda/mediawiki-mcp-server/pull/3#issuecomment-2878959782) in [shiquda/mediawiki-mcp-server](https://github.com/shiquda/mediawiki-mcp-server)
+5. 💪 Opened PR [#3941](https://github.com/VisActor/VChart/pull/3941) in [VisActor/VChart](https://github.com/VisActor/VChart)
 <!--END_SECTION:activity-->
 
 <picture>
