@@ -35,11 +35,11 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shiquda&theme=vue-dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shiquda&theme=vue-dark&show_icons=true&hide=SCSS,CSS,Jupyter%20Notebook&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#5353](https://github.com/CherryHQ/cherry-studio/pull/5353#issuecomment-2830731854) in [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio)
-2. 💪 Opened PR [#5354](https://github.com/CherryHQ/cherry-studio/pull/5354) in [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio)
-3. 🗣 Commented on [#5353](https://github.com/CherryHQ/cherry-studio/pull/5353#issuecomment-2830693118) in [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio)
-4. ❌ Closed PR [#5353](https://github.com/CherryHQ/cherry-studio/pull/5353) in [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio)
-5. 💪 Opened PR [#5353](https://github.com/CherryHQ/cherry-studio/pull/5353) in [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio)
+1. 🗣 Commented on [#6498](https://github.com/CherryHQ/cherry-studio/pull/6498#issuecomment-2911071795) in [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio)
+2. 💪 Opened PR [#6498](https://github.com/CherryHQ/cherry-studio/pull/6498) in [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio)
+3. 🗣 Commented on [#6493](https://github.com/CherryHQ/cherry-studio/issues/6493#issuecomment-2910962839) in [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio)
+4. 🗣 Commented on [#6493](https://github.com/CherryHQ/cherry-studio/issues/6493#issuecomment-2910956950) in [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio)
+5. ❗ Opened issue [#6494](https://github.com/CherryHQ/cherry-studio/issues/6494) in [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio)
 <!--END_SECTION:activity-->
 
 <picture>
@@ -50,11 +50,11 @@
 
 ### [Blog](https://shiquda.link/) posts
 <!-- BLOG-POST-LIST:START -->
+- [给命令行中的Android sdkmanager配置代理](https://shiquda.link/command-line-android-sdkmanager-proxy/)
 - [Chain Message：利用区块链打造一个的无法被篡改的留言页面](https://shiquda.link/chain-message-immutable-message-board/)
 - [《金钱心理学》阅读总结](https://shiquda.link/the-psychology-of-money-summary/)
 - [Treex - 高级命令行目录树可视化工具](https://shiquda.link/treex-an-advanced-cli-directory-tree-visualization/)
 - [从零开始搭建一个MCP服务器](https://shiquda.link/build-a-mcp-server-with-python-from-scratch/)
-- [大语言模型时代学习者的提问方式](https://shiquda.link/how-to-ask-for-learners-in-llm-era/)
 <!-- BLOG-POST-LIST:END -->
 
 ## Some platforms
