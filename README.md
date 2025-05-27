@@ -35,11 +35,11 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shiquda&theme=vue-dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shiquda&theme=vue-dark&show_icons=true&hide=SCSS,CSS,Jupyter%20Notebook&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2](https://github.com/dracula/nilesoft-shell/issues/2#issuecomment-2903545096) in [dracula/nilesoft-shell](https://github.com/dracula/nilesoft-shell)
-2. 🗣 Commented on [#2](https://github.com/dracula/nilesoft-shell/issues/2#issuecomment-2903019260) in [dracula/nilesoft-shell](https://github.com/dracula/nilesoft-shell)
-3. 🗣 Commented on [#3125](https://github.com/CherryHQ/cherry-studio/pull/3125#issuecomment-2891064443) in [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio)
-4. 🎉 Merged PR [#1](https://github.com/shiquda/cf-tool/pull/1) in [shiquda/cf-tool](https://github.com/shiquda/cf-tool)
-5. 💪 Opened PR [#1](https://github.com/shiquda/cf-tool/pull/1) in [shiquda/cf-tool](https://github.com/shiquda/cf-tool)
+1. 🗣 Commented on [#6493](https://github.com/CherryHQ/cherry-studio/issues/6493#issuecomment-2910956950) in [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio)
+2. ❗ Opened issue [#6494](https://github.com/CherryHQ/cherry-studio/issues/6494) in [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio)
+3. ❗ Opened issue [#6493](https://github.com/CherryHQ/cherry-studio/issues/6493) in [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio)
+4. 🗣 Commented on [#2](https://github.com/dracula/nilesoft-shell/issues/2#issuecomment-2903545096) in [dracula/nilesoft-shell](https://github.com/dracula/nilesoft-shell)
+5. 🗣 Commented on [#2](https://github.com/dracula/nilesoft-shell/issues/2#issuecomment-2903019260) in [dracula/nilesoft-shell](https://github.com/dracula/nilesoft-shell)
 <!--END_SECTION:activity-->
 
 <picture>
