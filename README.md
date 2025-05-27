@@ -30,7 +30,7 @@
 
 ## Stats
 
-![](https://komarev.com/ghpvc/?username=shiquda)
+![](https://komarev.com/ghpvc/?username=shiquda) ![](https://waka.shiquda.link/api/badge/shiquda/interval:7_days?label=weekly%20coding%20time)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shiquda&theme=vue-dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shiquda&theme=vue-dark&show_icons=true&hide=SCSS,CSS,Jupyter%20Notebook&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
