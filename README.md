@@ -35,11 +35,11 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shiquda&theme=vue-dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shiquda&theme=vue-dark&show_icons=true&hide=SCSS,CSS,Jupyter%20Notebook&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#6505](https://github.com/CherryHQ/cherry-studio/issues/6505#issuecomment-2911643799) in [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio)
-2. 🗣 Commented on [#6505](https://github.com/CherryHQ/cherry-studio/issues/6505#issuecomment-2911396309) in [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio)
-3. 🗣 Commented on [#6481](https://github.com/CherryHQ/cherry-studio/issues/6481#issuecomment-2911275819) in [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio)
-4. 🗣 Commented on [#6498](https://github.com/CherryHQ/cherry-studio/pull/6498#issuecomment-2911071795) in [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio)
-5. 💪 Opened PR [#6498](https://github.com/CherryHQ/cherry-studio/pull/6498) in [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio)
+1. ❗ Opened issue [#235](https://github.com/upstash/context7/issues/235) in [upstash/context7](https://github.com/upstash/context7)
+2. 🗣 Commented on [#6505](https://github.com/CherryHQ/cherry-studio/issues/6505#issuecomment-2911643799) in [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio)
+3. 🗣 Commented on [#6505](https://github.com/CherryHQ/cherry-studio/issues/6505#issuecomment-2911396309) in [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio)
+4. 🗣 Commented on [#6481](https://github.com/CherryHQ/cherry-studio/issues/6481#issuecomment-2911275819) in [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio)
+5. 🗣 Commented on [#6498](https://github.com/CherryHQ/cherry-studio/pull/6498#issuecomment-2911071795) in [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio)
 <!--END_SECTION:activity-->
 
 <picture>
