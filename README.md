@@ -35,11 +35,11 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shiquda&theme=vue-dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shiquda&theme=vue-dark&show_icons=true&hide=SCSS,CSS,Jupyter%20Notebook&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#5](https://github.com/shiquda/thunderbird-vericode/issues/5#issuecomment-2954180507) in [shiquda/thunderbird-vericode](https://github.com/shiquda/thunderbird-vericode)
-2. 🎉 Merged PR [#2](https://github.com/shiquda/thunderbird-vericode/pull/2) in [shiquda/thunderbird-vericode](https://github.com/shiquda/thunderbird-vericode)
-3. 🎉 Merged PR [#1](https://github.com/shiquda/thunderbird-vericode/pull/1) in [shiquda/thunderbird-vericode](https://github.com/shiquda/thunderbird-vericode)
-4. 🗣 Commented on [#1](https://github.com/shiquda/thunderbird-vericode/pull/1#issuecomment-2954153179) in [shiquda/thunderbird-vericode](https://github.com/shiquda/thunderbird-vericode)
-5. 🗣 Commented on [#3](https://github.com/shiquda/thunderbird-vericode/issues/3#issuecomment-2954145147) in [shiquda/thunderbird-vericode](https://github.com/shiquda/thunderbird-vericode)
+1. 🔒 Closed issue [#5](https://github.com/shiquda/thunderbird-vericode/issues/5) in [shiquda/thunderbird-vericode](https://github.com/shiquda/thunderbird-vericode)
+2. 🎉 Merged PR [#7](https://github.com/shiquda/thunderbird-vericode/pull/7) in [shiquda/thunderbird-vericode](https://github.com/shiquda/thunderbird-vericode)
+3. 🎉 Merged PR [#6](https://github.com/shiquda/thunderbird-vericode/pull/6) in [shiquda/thunderbird-vericode](https://github.com/shiquda/thunderbird-vericode)
+4. 💪 Opened PR [#6](https://github.com/shiquda/thunderbird-vericode/pull/6) in [shiquda/thunderbird-vericode](https://github.com/shiquda/thunderbird-vericode)
+5. 🗣 Commented on [#5](https://github.com/shiquda/thunderbird-vericode/issues/5#issuecomment-2954180507) in [shiquda/thunderbird-vericode](https://github.com/shiquda/thunderbird-vericode)
 <!--END_SECTION:activity-->
 
 <picture>
