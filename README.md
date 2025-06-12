@@ -35,11 +35,11 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shiquda&theme=vue-dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shiquda&theme=vue-dark&show_icons=true&hide=SCSS,CSS,Jupyter%20Notebook&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2](https://github.com/shiquda/treex/issues/2#issuecomment-2955247273) in [shiquda/treex](https://github.com/shiquda/treex)
-2. 🔒 Closed issue [#5](https://github.com/shiquda/thunderbird-vericode/issues/5) in [shiquda/thunderbird-vericode](https://github.com/shiquda/thunderbird-vericode)
-3. 🎉 Merged PR [#7](https://github.com/shiquda/thunderbird-vericode/pull/7) in [shiquda/thunderbird-vericode](https://github.com/shiquda/thunderbird-vericode)
-4. 🎉 Merged PR [#6](https://github.com/shiquda/thunderbird-vericode/pull/6) in [shiquda/thunderbird-vericode](https://github.com/shiquda/thunderbird-vericode)
-5. 💪 Opened PR [#6](https://github.com/shiquda/thunderbird-vericode/pull/6) in [shiquda/thunderbird-vericode](https://github.com/shiquda/thunderbird-vericode)
+1. 🗣 Commented on [#138](https://github.com/RubyMetric/chsrc/issues/138#issuecomment-2964813980) in [RubyMetric/chsrc](https://github.com/RubyMetric/chsrc)
+2. 🗣 Commented on [#2](https://github.com/shiquda/treex/issues/2#issuecomment-2955247273) in [shiquda/treex](https://github.com/shiquda/treex)
+3. 🔒 Closed issue [#5](https://github.com/shiquda/thunderbird-vericode/issues/5) in [shiquda/thunderbird-vericode](https://github.com/shiquda/thunderbird-vericode)
+4. 🎉 Merged PR [#7](https://github.com/shiquda/thunderbird-vericode/pull/7) in [shiquda/thunderbird-vericode](https://github.com/shiquda/thunderbird-vericode)
+5. 🎉 Merged PR [#6](https://github.com/shiquda/thunderbird-vericode/pull/6) in [shiquda/thunderbird-vericode](https://github.com/shiquda/thunderbird-vericode)
 <!--END_SECTION:activity-->
 
 <picture>
