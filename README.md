@@ -35,11 +35,11 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shiquda&theme=vue-dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shiquda&theme=vue-dark&show_icons=true&hide=SCSS,CSS,Jupyter%20Notebook&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#138](https://github.com/RubyMetric/chsrc/issues/138#issuecomment-2965126335) in [RubyMetric/chsrc](https://github.com/RubyMetric/chsrc)
-2. 🗣 Commented on [#138](https://github.com/RubyMetric/chsrc/issues/138#issuecomment-2964813980) in [RubyMetric/chsrc](https://github.com/RubyMetric/chsrc)
-3. 🗣 Commented on [#2](https://github.com/shiquda/treex/issues/2#issuecomment-2955247273) in [shiquda/treex](https://github.com/shiquda/treex)
-4. 🔒 Closed issue [#5](https://github.com/shiquda/thunderbird-vericode/issues/5) in [shiquda/thunderbird-vericode](https://github.com/shiquda/thunderbird-vericode)
-5. 🎉 Merged PR [#7](https://github.com/shiquda/thunderbird-vericode/pull/7) in [shiquda/thunderbird-vericode](https://github.com/shiquda/thunderbird-vericode)
+1. 🔒 Closed issue [#9](https://github.com/shiquda/shiquda_UserScript/issues/9) in [shiquda/shiquda_UserScript](https://github.com/shiquda/shiquda_UserScript)
+2. 🗣 Commented on [#9](https://github.com/shiquda/shiquda_UserScript/issues/9#issuecomment-2990934931) in [shiquda/shiquda_UserScript](https://github.com/shiquda/shiquda_UserScript)
+3. 🗣 Commented on [#138](https://github.com/RubyMetric/chsrc/issues/138#issuecomment-2965126335) in [RubyMetric/chsrc](https://github.com/RubyMetric/chsrc)
+4. 🗣 Commented on [#138](https://github.com/RubyMetric/chsrc/issues/138#issuecomment-2964813980) in [RubyMetric/chsrc](https://github.com/RubyMetric/chsrc)
+5. 🗣 Commented on [#2](https://github.com/shiquda/treex/issues/2#issuecomment-2955247273) in [shiquda/treex](https://github.com/shiquda/treex)
 <!--END_SECTION:activity-->
 
 <picture>
