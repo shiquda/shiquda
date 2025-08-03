@@ -35,9 +35,9 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shiquda&theme=vue-dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shiquda&theme=vue-dark&show_icons=true&hide=SCSS,CSS,Jupyter%20Notebook&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4](https://github.com/shiquda/mediawiki-mcp-server/pull/4#issuecomment-3066327056) in [shiquda/mediawiki-mcp-server](https://github.com/shiquda/mediawiki-mcp-server)
-2. 🎉 Merged PR [#4](https://github.com/shiquda/mediawiki-mcp-server/pull/4) in [shiquda/mediawiki-mcp-server](https://github.com/shiquda/mediawiki-mcp-server)
-3. 🔒 Closed issue [#9](https://github.com/shiquda/shiquda_UserScript/issues/9) in [shiquda/shiquda_UserScript](https://github.com/shiquda/shiquda_UserScript)
+1. 🚀 Published release [0.1.0](https://github.com/shiquda/xyz-dl/releases/tag/0.1.0) in [shiquda/xyz-dl](https://github.com/shiquda/xyz-dl)
+2. 🗣 Commented on [#4](https://github.com/shiquda/mediawiki-mcp-server/pull/4#issuecomment-3066327056) in [shiquda/mediawiki-mcp-server](https://github.com/shiquda/mediawiki-mcp-server)
+3. 🎉 Merged PR [#4](https://github.com/shiquda/mediawiki-mcp-server/pull/4) in [shiquda/mediawiki-mcp-server](https://github.com/shiquda/mediawiki-mcp-server)
 4. 🗣 Commented on [#9](https://github.com/shiquda/shiquda_UserScript/issues/9#issuecomment-2990934931) in [shiquda/shiquda_UserScript](https://github.com/shiquda/shiquda_UserScript)
 5. 🗣 Commented on [#2](https://github.com/shiquda/treex/issues/2#issuecomment-2955247273) in [shiquda/treex](https://github.com/shiquda/treex)
 <!--END_SECTION:activity-->
