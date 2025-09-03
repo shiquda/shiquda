@@ -35,11 +35,11 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shiquda&theme=vue-dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shiquda&theme=vue-dark&show_icons=true&hide=SCSS,CSS,Jupyter%20Notebook&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#7068](https://github.com/anthropics/claude-code/issues/7068) in [anthropics/claude-code](https://github.com/anthropics/claude-code)
-2. 🗣 Commented on [#10](https://github.com/shiquda/shiquda_UserScript/issues/10#issuecomment-3210669680) in [shiquda/shiquda_UserScript](https://github.com/shiquda/shiquda_UserScript)
-3. 🔒 Closed issue [#10](https://github.com/shiquda/shiquda_UserScript/issues/10) in [shiquda/shiquda_UserScript](https://github.com/shiquda/shiquda_UserScript)
-4. 🗣 Commented on [#9](https://github.com/shiquda/thunderbird-vericode/issues/9#issuecomment-3203745510) in [shiquda/thunderbird-vericode](https://github.com/shiquda/thunderbird-vericode)
-5. 🗣 Commented on [#433](https://github.com/qjfoidnh/BaiduPCS-Go/issues/433#issuecomment-3193675277) in [qjfoidnh/BaiduPCS-Go](https://github.com/qjfoidnh/BaiduPCS-Go)
+1. 🔒 Closed issue [#7068](https://github.com/anthropics/claude-code/issues/7068) in [anthropics/claude-code](https://github.com/anthropics/claude-code)
+2. ❗ Opened issue [#7068](https://github.com/anthropics/claude-code/issues/7068) in [anthropics/claude-code](https://github.com/anthropics/claude-code)
+3. 🗣 Commented on [#10](https://github.com/shiquda/shiquda_UserScript/issues/10#issuecomment-3210669680) in [shiquda/shiquda_UserScript](https://github.com/shiquda/shiquda_UserScript)
+4. 🔒 Closed issue [#10](https://github.com/shiquda/shiquda_UserScript/issues/10) in [shiquda/shiquda_UserScript](https://github.com/shiquda/shiquda_UserScript)
+5. 🗣 Commented on [#9](https://github.com/shiquda/thunderbird-vericode/issues/9#issuecomment-3203745510) in [shiquda/thunderbird-vericode](https://github.com/shiquda/thunderbird-vericode)
 <!--END_SECTION:activity-->
 
 <picture>
