@@ -35,11 +35,11 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shiquda&theme=vue-dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shiquda&theme=vue-dark&show_icons=true&hide=SCSS,CSS,Jupyter%20Notebook&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3](https://github.com/shiquda/treex/issues/3#issuecomment-3277930551) in [shiquda/treex](https://github.com/shiquda/treex)
-2. 🔒 Closed issue [#7068](https://github.com/anthropics/claude-code/issues/7068) in [anthropics/claude-code](https://github.com/anthropics/claude-code)
-3. ❗ Opened issue [#7068](https://github.com/anthropics/claude-code/issues/7068) in [anthropics/claude-code](https://github.com/anthropics/claude-code)
-4. 🗣 Commented on [#10](https://github.com/shiquda/shiquda_UserScript/issues/10#issuecomment-3210669680) in [shiquda/shiquda_UserScript](https://github.com/shiquda/shiquda_UserScript)
-5. 🔒 Closed issue [#10](https://github.com/shiquda/shiquda_UserScript/issues/10) in [shiquda/shiquda_UserScript](https://github.com/shiquda/shiquda_UserScript)
+1. 🎉 Merged PR [#1](https://github.com/shiquda/lai/pull/1) in [shiquda/lai](https://github.com/shiquda/lai)
+2. 💪 Opened PR [#1](https://github.com/shiquda/lai/pull/1) in [shiquda/lai](https://github.com/shiquda/lai)
+3. 🗣 Commented on [#3](https://github.com/shiquda/treex/issues/3#issuecomment-3277930551) in [shiquda/treex](https://github.com/shiquda/treex)
+4. 🔒 Closed issue [#7068](https://github.com/anthropics/claude-code/issues/7068) in [anthropics/claude-code](https://github.com/anthropics/claude-code)
+5. ❗ Opened issue [#7068](https://github.com/anthropics/claude-code/issues/7068) in [anthropics/claude-code](https://github.com/anthropics/claude-code)
 <!--END_SECTION:activity-->
 
 <picture>
