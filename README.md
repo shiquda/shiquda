@@ -35,11 +35,11 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shiquda&theme=vue-dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shiquda&theme=vue-dark&show_icons=true&hide=SCSS,CSS,Jupyter%20Notebook&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:activity-->
-1. ❌ Labeled PR [#3](undefined) in [shiquda/lai](https://github.com/shiquda/lai)
-2. 💪 Opened PR [#3](undefined) in [shiquda/lai](https://github.com/shiquda/lai)
-3. ❌ Labeled PR [#2](undefined) in [shiquda/lai](https://github.com/shiquda/lai)
-4. 💪 Opened PR [#2](undefined) in [shiquda/lai](https://github.com/shiquda/lai)
-5. ❌ Labeled PR [#1](undefined) in [shiquda/lai](https://github.com/shiquda/lai)
+1. 🚀 Published release [v0.3.0](https://github.com/shiquda/duckov-fancy-items/releases/tag/v0.3.0) in [shiquda/duckov-fancy-items](https://github.com/shiquda/duckov-fancy-items)
+2. ❌ Labeled PR [#3](undefined) in [shiquda/lai](https://github.com/shiquda/lai)
+3. 💪 Opened PR [#3](undefined) in [shiquda/lai](https://github.com/shiquda/lai)
+4. ❌ Labeled PR [#2](undefined) in [shiquda/lai](https://github.com/shiquda/lai)
+5. 💪 Opened PR [#2](undefined) in [shiquda/lai](https://github.com/shiquda/lai)
 <!--END_SECTION:activity-->
 
 <picture>
