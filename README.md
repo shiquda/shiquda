@@ -1,10 +1,11 @@
 # Hi there 👋
 
 - 👋 Hi! I'm shiquda!
-- 📖 I’m a Sophomore in Tongji University;
+- 📖 I’m a Junior in Tongji University;
 - ✨ I love open source and keep building fun projects;
 - 🤔 I enjoy reading, thinking, and sharing ideas;
-- 🌱 I’m currently learning XCPC, golang and blockchain.
+- 🌱 I’m currently explore ways to effectively build and operating a product.
+- 📚 I’m currently learning LLMs and blockchain.
 
 ## Favorites
 
@@ -26,7 +27,7 @@
 
 ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)
 
-![Bitcoin](https://img.shields.io/badge/bitcoin-F7931A?style=for-the-badge&logo=bitcoin&logoColor=white)![Ethereum](https://img.shields.io/badge/Ethereum-007EC6?style=for-the-badge&logo=Ethereum&logoColor=white)
+![Bitcoin](https://img.shields.io/badge/bitcoin-F7931A?style=for-the-badge&logo=bitcoin&logoColor=white)![Ethereum](https://img.shields.io/badge/Ethereum-007EC6?style=for-the-badge&logo=Ethereum&logoColor=white)![Cardano](https://img.shields.io/badge/Cardano-0033AD?style=for-the-badge&logo=Cardano&logoColor=white)
 
 ## Stats
 
