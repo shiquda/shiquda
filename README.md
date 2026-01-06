@@ -36,8 +36,8 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shiquda&theme=vue-dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shiquda&theme=vue-dark&show_icons=true&hide=SCSS,CSS,Jupyter%20Notebook&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v0.4.0](https://github.com/shiquda/duckov-fancy-items/releases/tag/v0.4.0) in [shiquda/duckov-fancy-items](https://github.com/shiquda/duckov-fancy-items)
-2. 🗣 Commented on [#11](https://github.com/shiquda/thunderbird-vericode/issues/11#issuecomment-3417805311) in [shiquda/thunderbird-vericode](https://github.com/shiquda/thunderbird-vericode)
+1. ℹ️ Labeled issue [#12324](https://github.com/CherryHQ/cherry-studio/issues/12324) in [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio)
+2. ❗ Opened issue [#12324](https://github.com/CherryHQ/cherry-studio/issues/12324) in [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio)
 3. 🚀 Published release [v0.3.0](https://github.com/shiquda/duckov-fancy-items/releases/tag/v0.3.0) in [shiquda/duckov-fancy-items](https://github.com/shiquda/duckov-fancy-items)
 4. 💪 Opened PR [#3](undefined) in [shiquda/lai](https://github.com/shiquda/lai)
 5. ❌ Labeled PR [#2](undefined) in [shiquda/lai](https://github.com/shiquda/lai)
