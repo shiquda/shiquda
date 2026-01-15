@@ -36,11 +36,11 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shiquda&theme=vue-dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shiquda&theme=vue-dark&show_icons=true&hide=SCSS,CSS,Jupyter%20Notebook&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:activity-->
-1. ℹ️ Labeled issue [#1](https://github.com/shiquda/xyz-dl/issues/1) in [shiquda/xyz-dl](https://github.com/shiquda/xyz-dl)
-2. 🗣 Commented on [#1](https://github.com/shiquda/xyz-dl/issues/1#issuecomment-3737793166) in [shiquda/xyz-dl](https://github.com/shiquda/xyz-dl)
-3. 🗣 Commented on [#6560](https://github.com/anomalyco/opencode/issues/6560#issuecomment-3737675908) in [anomalyco/opencode](https://github.com/anomalyco/opencode)
-4. ℹ️ Labeled issue [#12324](https://github.com/CherryHQ/cherry-studio/issues/12324) in [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio)
-5. ❗ Opened issue [#12324](https://github.com/CherryHQ/cherry-studio/issues/12324) in [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio)
+1. 🗣 Commented on [#1](https://github.com/shiquda/xyz-dl/issues/1#issuecomment-3752910854) in [shiquda/xyz-dl](https://github.com/shiquda/xyz-dl)
+2. ℹ️ Labeled issue [#1](https://github.com/shiquda/xyz-dl/issues/1) in [shiquda/xyz-dl](https://github.com/shiquda/xyz-dl)
+3. 🗣 Commented on [#1](https://github.com/shiquda/xyz-dl/issues/1#issuecomment-3737793166) in [shiquda/xyz-dl](https://github.com/shiquda/xyz-dl)
+4. 🗣 Commented on [#6560](https://github.com/anomalyco/opencode/issues/6560#issuecomment-3737675908) in [anomalyco/opencode](https://github.com/anomalyco/opencode)
+5. ℹ️ Labeled issue [#12324](https://github.com/CherryHQ/cherry-studio/issues/12324) in [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio)
 <!--END_SECTION:activity-->
 
 <picture>
