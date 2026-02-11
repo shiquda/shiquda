@@ -36,11 +36,11 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shiquda&theme=vue-dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shiquda&theme=vue-dark&show_icons=true&hide=SCSS,CSS,Jupyter%20Notebook&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#10](https://github.com/Shlomob/ocmonitor-share/issues/10) in [Shlomob/ocmonitor-share](https://github.com/Shlomob/ocmonitor-share)
-2. ❗ Opened issue [#12940](https://github.com/anomalyco/opencode/issues/12940) in [anomalyco/opencode](https://github.com/anomalyco/opencode)
-3. ❗ Opened issue [#10787](https://github.com/openclaw/openclaw/issues/10787) in [openclaw/openclaw](https://github.com/openclaw/openclaw)
-4. ❗ Opened issue [#8](https://github.com/astroval0/ArcRaidersAssets/issues/8) in [astroval0/ArcRaidersAssets](https://github.com/astroval0/ArcRaidersAssets)
-5. 🗣 Commented on [#1](https://github.com/shiquda/xyz-dl/issues/1#issuecomment-3840578920) in [shiquda/xyz-dl](https://github.com/shiquda/xyz-dl)
+1. 🎉 Merged PR [#11](https://github.com/Shlomob/ocmonitor-share/pull/11) in [Shlomob/ocmonitor-share](https://github.com/Shlomob/ocmonitor-share)
+2. 💪 Opened PR [#11](https://github.com/Shlomob/ocmonitor-share/pull/11) in [Shlomob/ocmonitor-share](https://github.com/Shlomob/ocmonitor-share)
+3. ❗ Opened issue [#10](https://github.com/Shlomob/ocmonitor-share/issues/10) in [Shlomob/ocmonitor-share](https://github.com/Shlomob/ocmonitor-share)
+4. ❗ Opened issue [#12940](https://github.com/anomalyco/opencode/issues/12940) in [anomalyco/opencode](https://github.com/anomalyco/opencode)
+5. ❗ Opened issue [#10787](https://github.com/openclaw/openclaw/issues/10787) in [openclaw/openclaw](https://github.com/openclaw/openclaw)
 <!--END_SECTION:activity-->
 
 <picture>
