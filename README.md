@@ -36,11 +36,11 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shiquda&theme=vue-dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shiquda&theme=vue-dark&show_icons=true&hide=SCSS,CSS,Jupyter%20Notebook&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#25](https://github.com/mohak34/opencode-notifier/issues/25#issuecomment-3891286538) in [mohak34/opencode-notifier](https://github.com/mohak34/opencode-notifier)
-2. ❗ Opened issue [#53](https://github.com/coulsontl/ai-toolbox/issues/53) in [coulsontl/ai-toolbox](https://github.com/coulsontl/ai-toolbox)
-3. 🗣 Commented on [#25](https://github.com/mohak34/opencode-notifier/issues/25#issuecomment-3888412043) in [mohak34/opencode-notifier](https://github.com/mohak34/opencode-notifier)
-4. 🗣 Commented on [#25](https://github.com/mohak34/opencode-notifier/issues/25#issuecomment-3888324615) in [mohak34/opencode-notifier](https://github.com/mohak34/opencode-notifier)
-5. 🎉 Merged PR [#11](https://github.com/Shlomob/ocmonitor-share/pull/11) in [Shlomob/ocmonitor-share](https://github.com/Shlomob/ocmonitor-share)
+1. 🗣 Commented on [#53](https://github.com/coulsontl/ai-toolbox/issues/53#issuecomment-3900649927) in [coulsontl/ai-toolbox](https://github.com/coulsontl/ai-toolbox)
+2. 🗣 Commented on [#53](https://github.com/coulsontl/ai-toolbox/issues/53#issuecomment-3900632836) in [coulsontl/ai-toolbox](https://github.com/coulsontl/ai-toolbox)
+3. 🗣 Commented on [#25](https://github.com/mohak34/opencode-notifier/issues/25#issuecomment-3891286538) in [mohak34/opencode-notifier](https://github.com/mohak34/opencode-notifier)
+4. ❗ Opened issue [#53](https://github.com/coulsontl/ai-toolbox/issues/53) in [coulsontl/ai-toolbox](https://github.com/coulsontl/ai-toolbox)
+5. 🗣 Commented on [#25](https://github.com/mohak34/opencode-notifier/issues/25#issuecomment-3888412043) in [mohak34/opencode-notifier](https://github.com/mohak34/opencode-notifier)
 <!--END_SECTION:activity-->
 
 <picture>
