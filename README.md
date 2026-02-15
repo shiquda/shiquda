@@ -36,11 +36,11 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shiquda&theme=vue-dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shiquda&theme=vue-dark&show_icons=true&hide=SCSS,CSS,Jupyter%20Notebook&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#1](https://github.com/grinev/opencode-telegram-bot/issues/1) in [grinev/opencode-telegram-bot](https://github.com/grinev/opencode-telegram-bot)
-2. 🗣 Commented on [#53](https://github.com/coulsontl/ai-toolbox/issues/53#issuecomment-3901248682) in [coulsontl/ai-toolbox](https://github.com/coulsontl/ai-toolbox)
-3. 🗣 Commented on [#53](https://github.com/coulsontl/ai-toolbox/issues/53#issuecomment-3900966034) in [coulsontl/ai-toolbox](https://github.com/coulsontl/ai-toolbox)
-4. 🗣 Commented on [#53](https://github.com/coulsontl/ai-toolbox/issues/53#issuecomment-3900965199) in [coulsontl/ai-toolbox](https://github.com/coulsontl/ai-toolbox)
-5. 🗣 Commented on [#53](https://github.com/coulsontl/ai-toolbox/issues/53#issuecomment-3900649927) in [coulsontl/ai-toolbox](https://github.com/coulsontl/ai-toolbox)
+1. 🗣 Commented on [#1](https://github.com/grinev/opencode-telegram-bot/issues/1#issuecomment-3903990366) in [grinev/opencode-telegram-bot](https://github.com/grinev/opencode-telegram-bot)
+2. ❌ Closed PR [#3](https://github.com/shiquda/opencode-telegram-bot/pull/3) in [shiquda/opencode-telegram-bot](https://github.com/shiquda/opencode-telegram-bot)
+3. ❌ Closed PR [#2](https://github.com/shiquda/opencode-telegram-bot/pull/2) in [shiquda/opencode-telegram-bot](https://github.com/shiquda/opencode-telegram-bot)
+4. ❌ Closed PR [#1](https://github.com/shiquda/opencode-telegram-bot/pull/1) in [shiquda/opencode-telegram-bot](https://github.com/shiquda/opencode-telegram-bot)
+5. 🗣 Commented on [#3](https://github.com/shiquda/opencode-telegram-bot/pull/3#issuecomment-3903973728) in [shiquda/opencode-telegram-bot](https://github.com/shiquda/opencode-telegram-bot)
 <!--END_SECTION:activity-->
 
 <picture>
