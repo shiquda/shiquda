@@ -36,11 +36,11 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shiquda&theme=vue-dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shiquda&theme=vue-dark&show_icons=true&hide=SCSS,CSS,Jupyter%20Notebook&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#5](https://github.com/lehhair/OpenCodeUI/pull/5) in [lehhair/OpenCodeUI](https://github.com/lehhair/OpenCodeUI)
-2. 🎉 Merged PR [#2](https://github.com/grinev/opencode-telegram-bot/pull/2) in [grinev/opencode-telegram-bot](https://github.com/grinev/opencode-telegram-bot)
-3. 🗣 Commented on [#1](https://github.com/grinev/opencode-telegram-bot/issues/1#issuecomment-3903990366) in [grinev/opencode-telegram-bot](https://github.com/grinev/opencode-telegram-bot)
-4. ❌ Closed PR [#3](https://github.com/shiquda/opencode-telegram-bot/pull/3) in [shiquda/opencode-telegram-bot](https://github.com/shiquda/opencode-telegram-bot)
-5. ❌ Closed PR [#2](https://github.com/shiquda/opencode-telegram-bot/pull/2) in [shiquda/opencode-telegram-bot](https://github.com/shiquda/opencode-telegram-bot)
+1. 💪 Opened PR [#6](https://github.com/lehhair/OpenCodeUI/pull/6) in [lehhair/OpenCodeUI](https://github.com/lehhair/OpenCodeUI)
+2. 💪 Opened PR [#5](https://github.com/lehhair/OpenCodeUI/pull/5) in [lehhair/OpenCodeUI](https://github.com/lehhair/OpenCodeUI)
+3. 🎉 Merged PR [#2](https://github.com/grinev/opencode-telegram-bot/pull/2) in [grinev/opencode-telegram-bot](https://github.com/grinev/opencode-telegram-bot)
+4. 🗣 Commented on [#1](https://github.com/grinev/opencode-telegram-bot/issues/1#issuecomment-3903990366) in [grinev/opencode-telegram-bot](https://github.com/grinev/opencode-telegram-bot)
+5. ❌ Closed PR [#3](https://github.com/shiquda/opencode-telegram-bot/pull/3) in [shiquda/opencode-telegram-bot](https://github.com/shiquda/opencode-telegram-bot)
 <!--END_SECTION:activity-->
 
 <picture>
