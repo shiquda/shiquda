@@ -36,11 +36,11 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shiquda&theme=vue-dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shiquda&theme=vue-dark&show_icons=true&hide=SCSS,CSS,Jupyter%20Notebook&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2](https://github.com/shiquda/xyz-dl/issues/2#issuecomment-3948396796) in [shiquda/xyz-dl](https://github.com/shiquda/xyz-dl)
-2. 🗣 Commented on [#2](https://github.com/shiquda/xyz-dl/issues/2#issuecomment-3948393340) in [shiquda/xyz-dl](https://github.com/shiquda/xyz-dl)
-3. 🔒 Closed issue [#2](https://github.com/shiquda/xyz-dl/issues/2) in [shiquda/xyz-dl](https://github.com/shiquda/xyz-dl)
-4. 🗣 Commented on [#3](https://github.com/shiquda/xyz-dl/pull/3#issuecomment-3948389303) in [shiquda/xyz-dl](https://github.com/shiquda/xyz-dl)
-5. 🗣 Commented on [#3](https://github.com/shiquda/xyz-dl/pull/3#issuecomment-3948295201) in [shiquda/xyz-dl](https://github.com/shiquda/xyz-dl)
+1. 🗣 Commented on [#4](https://github.com/shiquda/xyz-dl/pull/4#issuecomment-3949586533) in [shiquda/xyz-dl](https://github.com/shiquda/xyz-dl)
+2. 🗣 Commented on [#2](https://github.com/shiquda/xyz-dl/issues/2#issuecomment-3948396796) in [shiquda/xyz-dl](https://github.com/shiquda/xyz-dl)
+3. 🗣 Commented on [#2](https://github.com/shiquda/xyz-dl/issues/2#issuecomment-3948393340) in [shiquda/xyz-dl](https://github.com/shiquda/xyz-dl)
+4. 🔒 Closed issue [#2](https://github.com/shiquda/xyz-dl/issues/2) in [shiquda/xyz-dl](https://github.com/shiquda/xyz-dl)
+5. 🗣 Commented on [#3](https://github.com/shiquda/xyz-dl/pull/3#issuecomment-3948389303) in [shiquda/xyz-dl](https://github.com/shiquda/xyz-dl)
 <!--END_SECTION:activity-->
 
 <picture>
