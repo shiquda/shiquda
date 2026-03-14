@@ -36,11 +36,11 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shiquda&theme=vue-dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shiquda&theme=vue-dark&show_icons=true&hide=SCSS,CSS,Jupyter%20Notebook&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#319](https://github.com/baiy/Ctool/issues/319) in [baiy/Ctool](https://github.com/baiy/Ctool)
-2. 🗣 Commented on [#25](https://github.com/lehhair/OpenCodeUI/issues/25#issuecomment-4053078959) in [lehhair/OpenCodeUI](https://github.com/lehhair/OpenCodeUI)
-3. ❗ Opened issue [#25](https://github.com/lehhair/OpenCodeUI/issues/25) in [lehhair/OpenCodeUI](https://github.com/lehhair/OpenCodeUI)
-4. ❗ Opened issue [#21](https://github.com/lehhair/OpenCodeUI/issues/21) in [lehhair/OpenCodeUI](https://github.com/lehhair/OpenCodeUI)
-5. 🔒 Closed issue [#2](https://github.com/shiquda/xyz-dl/issues/2) in [shiquda/xyz-dl](https://github.com/shiquda/xyz-dl)
+1. 🔒 Closed issue [#32](https://github.com/GuDaStudio/GrokSearch/issues/32) in [GuDaStudio/GrokSearch](https://github.com/GuDaStudio/GrokSearch)
+2. 🗣 Commented on [#32](https://github.com/GuDaStudio/GrokSearch/issues/32#issuecomment-4060088500) in [GuDaStudio/GrokSearch](https://github.com/GuDaStudio/GrokSearch)
+3. ❗ Opened issue [#32](https://github.com/GuDaStudio/GrokSearch/issues/32) in [GuDaStudio/GrokSearch](https://github.com/GuDaStudio/GrokSearch)
+4. 🔒 Closed issue [#319](https://github.com/baiy/Ctool/issues/319) in [baiy/Ctool](https://github.com/baiy/Ctool)
+5. 🗣 Commented on [#25](https://github.com/lehhair/OpenCodeUI/issues/25#issuecomment-4053078959) in [lehhair/OpenCodeUI](https://github.com/lehhair/OpenCodeUI)
 <!--END_SECTION:activity-->
 
 <picture>
