@@ -36,11 +36,11 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shiquda&theme=vue-dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shiquda&theme=vue-dark&show_icons=true&hide=SCSS,CSS,Jupyter%20Notebook&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#9271](https://github.com/ruanyf/weekly/issues/9271) in [ruanyf/weekly](https://github.com/ruanyf/weekly)
-2. 🗣 Commented on [#1](https://github.com/shiquda/roadmap-skill/issues/1#issuecomment-4060354804) in [shiquda/roadmap-skill](https://github.com/shiquda/roadmap-skill)
-3. 🔒 Closed issue [#32](https://github.com/GuDaStudio/GrokSearch/issues/32) in [GuDaStudio/GrokSearch](https://github.com/GuDaStudio/GrokSearch)
-4. 🗣 Commented on [#32](https://github.com/GuDaStudio/GrokSearch/issues/32#issuecomment-4060088500) in [GuDaStudio/GrokSearch](https://github.com/GuDaStudio/GrokSearch)
-5. ❗ Opened issue [#32](https://github.com/GuDaStudio/GrokSearch/issues/32) in [GuDaStudio/GrokSearch](https://github.com/GuDaStudio/GrokSearch)
+1. 🗣 Commented on [#25](https://github.com/lehhair/OpenCodeUI/issues/25#issuecomment-4080920017) in [lehhair/OpenCodeUI](https://github.com/lehhair/OpenCodeUI)
+2. ❗ Opened issue [#31](https://github.com/lehhair/OpenCodeUI/issues/31) in [lehhair/OpenCodeUI](https://github.com/lehhair/OpenCodeUI)
+3. 🗣 Commented on [#25](https://github.com/lehhair/OpenCodeUI/issues/25#issuecomment-4080886595) in [lehhair/OpenCodeUI](https://github.com/lehhair/OpenCodeUI)
+4. ❗ Opened issue [#9271](https://github.com/ruanyf/weekly/issues/9271) in [ruanyf/weekly](https://github.com/ruanyf/weekly)
+5. 🗣 Commented on [#1](https://github.com/shiquda/roadmap-skill/issues/1#issuecomment-4060354804) in [shiquda/roadmap-skill](https://github.com/shiquda/roadmap-skill)
 <!--END_SECTION:activity-->
 
 <picture>
