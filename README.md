@@ -36,11 +36,11 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shiquda&theme=vue-dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shiquda&theme=vue-dark&show_icons=true&hide=SCSS,CSS,Jupyter%20Notebook&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/shiquda/inputor/pull/1) in [shiquda/inputor](https://github.com/shiquda/inputor)
-2. ℹ️ Labeled PR [#1](https://github.com/shiquda/inputor/pull/1) in [shiquda/inputor](https://github.com/shiquda/inputor)
+1. ❗ Opened issue [#38](https://github.com/lehhair/OpenCodeUI/issues/38) in [lehhair/OpenCodeUI](https://github.com/lehhair/OpenCodeUI)
+2. 🎉 Merged PR [#1](https://github.com/shiquda/inputor/pull/1) in [shiquda/inputor](https://github.com/shiquda/inputor)
 3. ℹ️ Labeled PR [#1](https://github.com/shiquda/inputor/pull/1) in [shiquda/inputor](https://github.com/shiquda/inputor)
-4. 💪 Opened PR [#1](https://github.com/shiquda/inputor/pull/1) in [shiquda/inputor](https://github.com/shiquda/inputor)
-5. ❗ Opened issue [#36](https://github.com/lehhair/OpenCodeUI/issues/36) in [lehhair/OpenCodeUI](https://github.com/lehhair/OpenCodeUI)
+4. ℹ️ Labeled PR [#1](https://github.com/shiquda/inputor/pull/1) in [shiquda/inputor](https://github.com/shiquda/inputor)
+5. 💪 Opened PR [#1](https://github.com/shiquda/inputor/pull/1) in [shiquda/inputor](https://github.com/shiquda/inputor)
 <!--END_SECTION:activity-->
 
 <picture>
