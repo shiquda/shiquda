@@ -51,11 +51,11 @@
 
 ### [Blog](https://shiquda.link/) posts
 <!-- BLOG-POST-LIST:START -->
+- [焦虑，是因为你觉得自己还能改变什么](https://shiquda.link/anxiety-formula/)
 - [听无人知晓 E45 孟岩对话李继刚：人何以自处 有感](https://shiquda.link/tingwurenzhixiao-e45-reflection/)
 - [增强人与 Agent 交互体验的 Slash Command](https://shiquda.link/slash-command-for-better-agent-interaction/)
 - [Agent 与提效本质之思考](https://shiquda.link/agent-and-efficiency-thoughts/)
 - [我目前的Vibe Coding工作流（Via Phone）](https://shiquda.link/my-mobile-vibe-coding-workflow-2026-02/)
-- [用朴素数学视角为人生“建模”——浅析人力资源的不可再生性与复利的运用](https://shiquda.link/try-to-model-my-life/)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
