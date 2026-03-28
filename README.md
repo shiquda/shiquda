@@ -36,11 +36,11 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shiquda&theme=vue-dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shiquda&theme=vue-dark&show_icons=true&hide=SCSS,CSS,Jupyter%20Notebook&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#38](https://github.com/lehhair/OpenCodeUI/issues/38#issuecomment-4124978005) in [lehhair/OpenCodeUI](https://github.com/lehhair/OpenCodeUI)
-2. 🔒 Closed issue [#38](https://github.com/lehhair/OpenCodeUI/issues/38) in [lehhair/OpenCodeUI](https://github.com/lehhair/OpenCodeUI)
-3. 🗣 Commented on [#38](https://github.com/lehhair/OpenCodeUI/issues/38#issuecomment-4124958127) in [lehhair/OpenCodeUI](https://github.com/lehhair/OpenCodeUI)
-4. ❗ Opened issue [#38](https://github.com/lehhair/OpenCodeUI/issues/38) in [lehhair/OpenCodeUI](https://github.com/lehhair/OpenCodeUI)
-5. 🎉 Merged PR [#1](https://github.com/shiquda/inputor/pull/1) in [shiquda/inputor](https://github.com/shiquda/inputor)
+1. ❗ Opened issue [#112](https://github.com/coulsontl/ai-toolbox/issues/112) in [coulsontl/ai-toolbox](https://github.com/coulsontl/ai-toolbox)
+2. 🗣 Commented on [#38](https://github.com/lehhair/OpenCodeUI/issues/38#issuecomment-4124978005) in [lehhair/OpenCodeUI](https://github.com/lehhair/OpenCodeUI)
+3. 🔒 Closed issue [#38](https://github.com/lehhair/OpenCodeUI/issues/38) in [lehhair/OpenCodeUI](https://github.com/lehhair/OpenCodeUI)
+4. 🗣 Commented on [#38](https://github.com/lehhair/OpenCodeUI/issues/38#issuecomment-4124958127) in [lehhair/OpenCodeUI](https://github.com/lehhair/OpenCodeUI)
+5. ❗ Opened issue [#38](https://github.com/lehhair/OpenCodeUI/issues/38) in [lehhair/OpenCodeUI](https://github.com/lehhair/OpenCodeUI)
 <!--END_SECTION:activity-->
 
 <picture>
