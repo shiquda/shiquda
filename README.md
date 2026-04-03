@@ -4,10 +4,14 @@
 - 📖 I’m a Junior in Tongji University;
 - ✨ I love open source and keep building fun projects;
 - 🤔 I enjoy reading, thinking, and sharing ideas;
-- 🌱 I’m currently explore ways to effectively build and operating a product.
-- 📚 I’m currently learning LLMs and blockchain.
+- 🌱 I’m currently explore ways to effectively conduct scientific research with Agents.
+- 📚 I’m currently learning Agents and Skills.
 
 ## Favorites
+
+- Coding Agent:
+
+![Claude Code](https://img.shields.io/badge/Claude%20Code-DB6B47?style=for-the-badge&logo=claude&logoColor=white)![OpenCode](https://img.shields.io/badge/OpenCode-000000?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0nMjQwJyBoZWlnaHQ9JzMwMCcgdmlld0JveD0nMCAwIDI0MCAzMDAnIGZpbGw9J25vbmUnIHhtbG5zPSdodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2Zyc+PGcgY2xpcC1wYXRoPSd1cmwoI2NsaXAwXzE0MDFfODYyODMpJz48bWFzayBpZD0nbWFzazBfMTQwMV84NjI4Mycgc3R5bGU9J21hc2stdHlwZTpsdW1pbmFuY2UnIG1hc2tVbml0cz0ndXNlclNwYWNlT25Vc2UnIHg9JzAnIHk9JzAnIHdpZHRoPScyNDAnIGhlaWdodD0nMzAwJz48cGF0aCBkPSdNMjQwIDBIMFYzMDBIMjQwVjBaJyBmaWxsPSd3aGl0ZScvPjwvbWFzaz48ZyBtYXNrPSd1cmgoI21hc2swXzE0MDFfODYyODMpJz48cGF0aCBkPSdNMTgwIDI0MEg2MFYxMjBIMTgwVjI0MFonIGZpbGw9JyM0QjQ2NDYnLz48cGF0aCBkPSdNMTgwIDYwSDYwVjI0MEgxODBWNjBaTTI0MCAzMDBIMFYwSDI0MFYzMDBaJyBmaWxsPScjRjFFQ0VDJy8+PC9nPjwvZz48ZGVmcz48Y2xpcFBhdGggaWQ9J2NsaXAwXzE0MDFfODYyODMnPjxyZWN0IHdpZHRoPScyNDAnIGhlaWdodD0nMzAwJyBmaWxsPSd3aGl0ZScvPjwvY2xpcFBhdGg+PC9kZWZzPjwvc3ZnPg==&logoColor=white)
 
 - Frontend:
 
@@ -23,9 +27,7 @@
 
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
 
-![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)![Obsidian](https://img.shields.io/badge/Obsidian-%23483699.svg?style=for-the-badge&logo=obsidian&logoColor=white)
-
-![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)![Obsidian](https://img.shields.io/badge/Obsidian-%23483699.svg?style=for-the-badge&logo=obsidian&logoColor=white)
 
 ![Bitcoin](https://img.shields.io/badge/bitcoin-F7931A?style=for-the-badge&logo=bitcoin&logoColor=white)![Ethereum](https://img.shields.io/badge/Ethereum-007EC6?style=for-the-badge&logo=Ethereum&logoColor=white)![Cardano](https://img.shields.io/badge/Cardano-0033AD?style=for-the-badge&logo=Cardano&logoColor=white)
 
