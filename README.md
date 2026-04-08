@@ -40,11 +40,11 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shiquda&theme=vue-dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shiquda&theme=vue-dark&show_icons=true&hide=SCSS,CSS,Jupyter%20Notebook&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#5](https://github.com/shiquda/xyz-dl/issues/5#issuecomment-4190818497) in [shiquda/xyz-dl](https://github.com/shiquda/xyz-dl)
-2. 🔒 Closed issue [#1](https://github.com/shiquda/roadmap-skill/issues/1) in [shiquda/roadmap-skill](https://github.com/shiquda/roadmap-skill)
-3. 🗣 Commented on [#3](https://github.com/ourresearch/openalex-official/issues/3#issuecomment-4168138525) in [ourresearch/openalex-official](https://github.com/ourresearch/openalex-official)
-4. ❗ Opened issue [#112](https://github.com/coulsontl/ai-toolbox/issues/112) in [coulsontl/ai-toolbox](https://github.com/coulsontl/ai-toolbox)
-5. 🗣 Commented on [#38](https://github.com/lehhair/OpenCodeUI/issues/38#issuecomment-4124978005) in [lehhair/OpenCodeUI](https://github.com/lehhair/OpenCodeUI)
+1. ❗ Opened issue [#135](https://github.com/coulsontl/ai-toolbox/issues/135) in [coulsontl/ai-toolbox](https://github.com/coulsontl/ai-toolbox)
+2. 🗣 Commented on [#5](https://github.com/shiquda/xyz-dl/issues/5#issuecomment-4190818497) in [shiquda/xyz-dl](https://github.com/shiquda/xyz-dl)
+3. 🔒 Closed issue [#1](https://github.com/shiquda/roadmap-skill/issues/1) in [shiquda/roadmap-skill](https://github.com/shiquda/roadmap-skill)
+4. 🗣 Commented on [#3](https://github.com/ourresearch/openalex-official/issues/3#issuecomment-4168138525) in [ourresearch/openalex-official](https://github.com/ourresearch/openalex-official)
+5. ❗ Opened issue [#112](https://github.com/coulsontl/ai-toolbox/issues/112) in [coulsontl/ai-toolbox](https://github.com/coulsontl/ai-toolbox)
 <!--END_SECTION:activity-->
 
 <picture>
