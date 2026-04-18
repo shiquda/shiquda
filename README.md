@@ -40,11 +40,11 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shiquda&theme=vue-dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shiquda&theme=vue-dark&show_icons=true&hide=SCSS,CSS,Jupyter%20Notebook&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#65](https://github.com/lehhair/OpenCodeUI/issues/65) in [lehhair/OpenCodeUI](https://github.com/lehhair/OpenCodeUI)
-2. 💪 Opened PR [#12](https://github.com/BedirT/LLM-Token-Counter-VSCode/pull/12) in [BedirT/LLM-Token-Counter-VSCode](https://github.com/BedirT/LLM-Token-Counter-VSCode)
-3. 🗣 Commented on [#2](https://github.com/shiquda/crypto-monitor/pull/2#issuecomment-4221052697) in [shiquda/crypto-monitor](https://github.com/shiquda/crypto-monitor)
-4. 🗣 Commented on [#6505](https://github.com/CherryHQ/cherry-studio/issues/6505#issuecomment-4211322895) in [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio)
-5. 🗣 Commented on [#135](https://github.com/coulsontl/ai-toolbox/issues/135#issuecomment-4211050913) in [coulsontl/ai-toolbox](https://github.com/coulsontl/ai-toolbox)
+1. 🎉 Merged PR [#12](https://github.com/BedirT/LLM-Token-Counter-VSCode/pull/12) in [BedirT/LLM-Token-Counter-VSCode](https://github.com/BedirT/LLM-Token-Counter-VSCode)
+2. 🗣 Commented on [#12](https://github.com/BedirT/LLM-Token-Counter-VSCode/pull/12#issuecomment-4272461327) in [BedirT/LLM-Token-Counter-VSCode](https://github.com/BedirT/LLM-Token-Counter-VSCode)
+3. ❗ Opened issue [#65](https://github.com/lehhair/OpenCodeUI/issues/65) in [lehhair/OpenCodeUI](https://github.com/lehhair/OpenCodeUI)
+4. 💪 Opened PR [#12](https://github.com/BedirT/LLM-Token-Counter-VSCode/pull/12) in [BedirT/LLM-Token-Counter-VSCode](https://github.com/BedirT/LLM-Token-Counter-VSCode)
+5. 🗣 Commented on [#2](https://github.com/shiquda/crypto-monitor/pull/2#issuecomment-4221052697) in [shiquda/crypto-monitor](https://github.com/shiquda/crypto-monitor)
 <!--END_SECTION:activity-->
 
 <picture>
