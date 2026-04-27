@@ -40,11 +40,11 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shiquda&theme=vue-dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shiquda&theme=vue-dark&show_icons=true&hide=SCSS,CSS,Jupyter%20Notebook&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#75](https://github.com/lehhair/OpenCodeUI/pull/75) in [lehhair/OpenCodeUI](https://github.com/lehhair/OpenCodeUI)
-2. 💪 Opened PR [#75](https://github.com/lehhair/OpenCodeUI/pull/75) in [lehhair/OpenCodeUI](https://github.com/lehhair/OpenCodeUI)
-3. ❌ Closed PR [#1](https://github.com/shiquda/OpenCodeUI/pull/1) in [shiquda/OpenCodeUI](https://github.com/shiquda/OpenCodeUI)
-4. 💪 Opened PR [#1](https://github.com/shiquda/OpenCodeUI/pull/1) in [shiquda/OpenCodeUI](https://github.com/shiquda/OpenCodeUI)
-5. ❗ Opened issue [#74](https://github.com/lehhair/OpenCodeUI/issues/74) in [lehhair/OpenCodeUI](https://github.com/lehhair/OpenCodeUI)
+1. 🔒 Closed issue [#5](https://github.com/shiquda/xyz-dl/issues/5) in [shiquda/xyz-dl](https://github.com/shiquda/xyz-dl)
+2. 🎉 Merged PR [#75](https://github.com/lehhair/OpenCodeUI/pull/75) in [lehhair/OpenCodeUI](https://github.com/lehhair/OpenCodeUI)
+3. 💪 Opened PR [#75](https://github.com/lehhair/OpenCodeUI/pull/75) in [lehhair/OpenCodeUI](https://github.com/lehhair/OpenCodeUI)
+4. ❌ Closed PR [#1](https://github.com/shiquda/OpenCodeUI/pull/1) in [shiquda/OpenCodeUI](https://github.com/shiquda/OpenCodeUI)
+5. 💪 Opened PR [#1](https://github.com/shiquda/OpenCodeUI/pull/1) in [shiquda/OpenCodeUI](https://github.com/shiquda/OpenCodeUI)
 <!--END_SECTION:activity-->
 
 <picture>
