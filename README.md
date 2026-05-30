@@ -40,9 +40,9 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shiquda&theme=vue-dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shiquda&theme=vue-dark&show_icons=true&hide=SCSS,CSS,Jupyter%20Notebook&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:activity-->
-1. ℹ️ Labeled issue [#1126](https://github.com/getpaseo/paseo/issues/1126) in [getpaseo/paseo](https://github.com/getpaseo/paseo)
-2. ❗ Opened issue [#1126](https://github.com/getpaseo/paseo/issues/1126) in [getpaseo/paseo](https://github.com/getpaseo/paseo)
-3. 🔒 Closed issue [#5](https://github.com/shiquda/xyz-dl/issues/5) in [shiquda/xyz-dl](https://github.com/shiquda/xyz-dl)
+1. 💪 Opened PR [#25](https://github.com/aloth/olcli/pull/25) in [aloth/olcli](https://github.com/aloth/olcli)
+2. ℹ️ Labeled issue [#1126](https://github.com/getpaseo/paseo/issues/1126) in [getpaseo/paseo](https://github.com/getpaseo/paseo)
+3. ❗ Opened issue [#1126](https://github.com/getpaseo/paseo/issues/1126) in [getpaseo/paseo](https://github.com/getpaseo/paseo)
 4. 🎉 Merged PR [#75](https://github.com/lehhair/OpenCodeUI/pull/75) in [lehhair/OpenCodeUI](https://github.com/lehhair/OpenCodeUI)
 5. 💪 Opened PR [#75](https://github.com/lehhair/OpenCodeUI/pull/75) in [lehhair/OpenCodeUI](https://github.com/lehhair/OpenCodeUI)
 <!--END_SECTION:activity-->
