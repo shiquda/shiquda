@@ -55,11 +55,11 @@
 
 ### [Blog](https://shiquda.link/) posts
 <!-- BLOG-POST-LIST:START -->
+- [从提示词到个人资产，我如何用 Git 跨设备管理私有 Skill](https://shiquda.link/private-skill-git-cross-device/)
 - [焦虑，是因为你觉得自己还能改变什么](https://shiquda.link/anxiety-formula/)
 - [听无人知晓 E45 孟岩对话李继刚：人何以自处 有感](https://shiquda.link/tingwurenzhixiao-e45-reflection/)
 - [增强人与 Agent 交互体验的 Slash Command](https://shiquda.link/slash-command-for-better-agent-interaction/)
 - [Agent 与提效本质之思考](https://shiquda.link/agent-and-efficiency-thoughts/)
-- [我目前的Vibe Coding工作流（Via Phone）](https://shiquda.link/my-mobile-vibe-coding-workflow-2026-02/)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
