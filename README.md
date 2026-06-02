@@ -40,11 +40,11 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shiquda&theme=vue-dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shiquda&theme=vue-dark&show_icons=true&hide=SCSS,CSS,Jupyter%20Notebook&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#25](https://github.com/aloth/olcli/pull/25) in [aloth/olcli](https://github.com/aloth/olcli)
-2. 💪 Opened PR [#25](https://github.com/aloth/olcli/pull/25) in [aloth/olcli](https://github.com/aloth/olcli)
-3. ℹ️ Labeled issue [#1126](https://github.com/getpaseo/paseo/issues/1126) in [getpaseo/paseo](https://github.com/getpaseo/paseo)
-4. ❗ Opened issue [#1126](https://github.com/getpaseo/paseo/issues/1126) in [getpaseo/paseo](https://github.com/getpaseo/paseo)
-5. 💪 Opened PR [#75](https://github.com/lehhair/OpenCodeUI/pull/75) in [lehhair/OpenCodeUI](https://github.com/lehhair/OpenCodeUI)
+1. 💪 Opened PR [#8](https://github.com/konbakuyomu/smartsearch/pull/8) in [konbakuyomu/smartsearch](https://github.com/konbakuyomu/smartsearch)
+2. 🎉 Merged PR [#25](https://github.com/aloth/olcli/pull/25) in [aloth/olcli](https://github.com/aloth/olcli)
+3. 💪 Opened PR [#25](https://github.com/aloth/olcli/pull/25) in [aloth/olcli](https://github.com/aloth/olcli)
+4. ℹ️ Labeled issue [#1126](https://github.com/getpaseo/paseo/issues/1126) in [getpaseo/paseo](https://github.com/getpaseo/paseo)
+5. ❗ Opened issue [#1126](https://github.com/getpaseo/paseo/issues/1126) in [getpaseo/paseo](https://github.com/getpaseo/paseo)
 <!--END_SECTION:activity-->
 
 <picture>
