@@ -40,11 +40,11 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shiquda&theme=vue-dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shiquda&theme=vue-dark&show_icons=true&hide=SCSS,CSS,Jupyter%20Notebook&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#8](https://github.com/konbakuyomu/smartsearch/pull/8) in [konbakuyomu/smartsearch](https://github.com/konbakuyomu/smartsearch)
-2. 🎉 Merged PR [#25](https://github.com/aloth/olcli/pull/25) in [aloth/olcli](https://github.com/aloth/olcli)
-3. 💪 Opened PR [#25](https://github.com/aloth/olcli/pull/25) in [aloth/olcli](https://github.com/aloth/olcli)
-4. ℹ️ Labeled issue [#1126](https://github.com/getpaseo/paseo/issues/1126) in [getpaseo/paseo](https://github.com/getpaseo/paseo)
-5. ❗ Opened issue [#1126](https://github.com/getpaseo/paseo/issues/1126) in [getpaseo/paseo](https://github.com/getpaseo/paseo)
+1. 🗣 Commented on [#8](https://github.com/konbakuyomu/smartsearch/pull/8#issuecomment-4636661531) in [konbakuyomu/smartsearch](https://github.com/konbakuyomu/smartsearch)
+2. ❌ Closed PR [#8](https://github.com/konbakuyomu/smartsearch/pull/8) in [konbakuyomu/smartsearch](https://github.com/konbakuyomu/smartsearch)
+3. 💪 Opened PR [#8](https://github.com/konbakuyomu/smartsearch/pull/8) in [konbakuyomu/smartsearch](https://github.com/konbakuyomu/smartsearch)
+4. 🎉 Merged PR [#25](https://github.com/aloth/olcli/pull/25) in [aloth/olcli](https://github.com/aloth/olcli)
+5. 💪 Opened PR [#25](https://github.com/aloth/olcli/pull/25) in [aloth/olcli](https://github.com/aloth/olcli)
 <!--END_SECTION:activity-->
 
 <picture>
