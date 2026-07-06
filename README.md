@@ -33,7 +33,7 @@
 
 ## Stats
 
-![](https://komarev.com/ghpvc/?username=shiquda)  ![](https://waka.shiquda.link/api/badge/shiquda/interval:7_days?label=weekly%20coding%20time)
+![](https://komarev.com/ghpvc/?username=shiquda) 
 
 7-day statistics [![VibeUsage](https://vibecafe.ai/@shiquda/badge)](https://vibecafe.ai/@shiquda)
 
