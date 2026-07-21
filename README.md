@@ -40,11 +40,11 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shiquda&theme=vue-dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shiquda&theme=vue-dark&show_icons=true&hide=SCSS,CSS,Jupyter%20Notebook&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/shiquda/threadline/pull/1) in [shiquda/threadline](https://github.com/shiquda/threadline)
-2. 💪 Opened PR [#1](https://github.com/shiquda/threadline/pull/1) in [shiquda/threadline](https://github.com/shiquda/threadline)
-3. 🗣 Commented on [#547](https://github.com/getpaseo/paseo/issues/547#issuecomment-4989660907) in [getpaseo/paseo](https://github.com/getpaseo/paseo)
-4. 🎉 Merged PR [#25](https://github.com/aloth/olcli/pull/25) in [aloth/olcli](https://github.com/aloth/olcli)
-5. 💪 Opened PR [#25](https://github.com/aloth/olcli/pull/25) in [aloth/olcli](https://github.com/aloth/olcli)
+1. 🗣 Commented on [#1](https://github.com/shiquda/weread-cli/pull/1#issuecomment-5032743517) in [shiquda/weread-cli](https://github.com/shiquda/weread-cli)
+2. 💪 Opened PR [#12630](https://github.com/rotki/rotki/pull/12630) in [rotki/rotki](https://github.com/rotki/rotki)
+3. ❗ Opened issue [#12629](https://github.com/rotki/rotki/issues/12629) in [rotki/rotki](https://github.com/rotki/rotki)
+4. 🎉 Merged PR [#1](https://github.com/shiquda/threadline/pull/1) in [shiquda/threadline](https://github.com/shiquda/threadline)
+5. 💪 Opened PR [#1](https://github.com/shiquda/threadline/pull/1) in [shiquda/threadline](https://github.com/shiquda/threadline)
 <!--END_SECTION:activity-->
 
 <picture>
