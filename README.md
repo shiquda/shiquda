@@ -40,11 +40,11 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shiquda&theme=vue-dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shiquda&theme=vue-dark&show_icons=true&hide=SCSS,CSS,Jupyter%20Notebook&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#12630](https://github.com/rotki/rotki/pull/12630#issuecomment-5041104481) in [rotki/rotki](https://github.com/rotki/rotki)
-2. 🗣 Commented on [#12630](https://github.com/rotki/rotki/pull/12630#issuecomment-5033716498) in [rotki/rotki](https://github.com/rotki/rotki)
-3. 🗣 Commented on [#1](https://github.com/shiquda/weread-cli/pull/1#issuecomment-5032743517) in [shiquda/weread-cli](https://github.com/shiquda/weread-cli)
-4. 💪 Opened PR [#12630](https://github.com/rotki/rotki/pull/12630) in [rotki/rotki](https://github.com/rotki/rotki)
-5. ❗ Opened issue [#12629](https://github.com/rotki/rotki/issues/12629) in [rotki/rotki](https://github.com/rotki/rotki)
+1. 🗣 Commented on [#82](https://github.com/geekflyer/cliprelay/issues/82#issuecomment-5213132199) in [geekflyer/cliprelay](https://github.com/geekflyer/cliprelay)
+2. 🗣 Commented on [#12630](https://github.com/rotki/rotki/pull/12630#issuecomment-5041104481) in [rotki/rotki](https://github.com/rotki/rotki)
+3. 🗣 Commented on [#12630](https://github.com/rotki/rotki/pull/12630#issuecomment-5033716498) in [rotki/rotki](https://github.com/rotki/rotki)
+4. 🗣 Commented on [#1](https://github.com/shiquda/weread-cli/pull/1#issuecomment-5032743517) in [shiquda/weread-cli](https://github.com/shiquda/weread-cli)
+5. 💪 Opened PR [#12630](https://github.com/rotki/rotki/pull/12630) in [rotki/rotki](https://github.com/rotki/rotki)
 <!--END_SECTION:activity-->
 
 <picture>
