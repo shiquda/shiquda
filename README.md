@@ -55,11 +55,11 @@
 
 ### [Blog](https://shiquda.link/) posts
 <!-- BLOG-POST-LIST:START -->
+- [让 Agent 调用网页版 5.6 Sol](https://shiquda.link/agent-call-chatgpt-web-5.6-sol/)
 - [SpotAsk：不是所有的问题，都需要打开 ChatGPT](https://shiquda.link/spotask-not-every-question-needs-chatgpt/)
 - [从提示词到个人资产，我如何用 Git 跨设备管理私有 Skill](https://shiquda.link/private-skill-git-cross-device/)
 - [焦虑，是因为你觉得自己还能改变什么](https://shiquda.link/anxiety-formula/)
 - [听无人知晓 E45 孟岩对话李继刚：人何以自处 有感](https://shiquda.link/tingwurenzhixiao-e45-reflection/)
-- [增强人与 Agent 交互体验的 Slash Command](https://shiquda.link/slash-command-for-better-agent-interaction/)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
