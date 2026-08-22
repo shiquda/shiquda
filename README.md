@@ -40,11 +40,11 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shiquda&theme=vue-dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shiquda&theme=vue-dark&show_icons=true&hide=SCSS,CSS,Jupyter%20Notebook&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#1](https://github.com/shiquda/SpotAsk/issues/1) in [shiquda/SpotAsk](https://github.com/shiquda/SpotAsk)
-2. 🗣 Commented on [#1](https://github.com/shiquda/SpotAsk/issues/1#issuecomment-5262455093) in [shiquda/SpotAsk](https://github.com/shiquda/SpotAsk)
-3. 🗣 Commented on [#1](https://github.com/shiquda/SpotAsk/issues/1#issuecomment-5262126641) in [shiquda/SpotAsk](https://github.com/shiquda/SpotAsk)
-4. ❗ Opened issue [#11129](https://github.com/ruanyf/weekly/issues/11129) in [ruanyf/weekly](https://github.com/ruanyf/weekly)
-5. 🗣 Commented on [#82](https://github.com/geekflyer/cliprelay/issues/82#issuecomment-5213132199) in [geekflyer/cliprelay](https://github.com/geekflyer/cliprelay)
+1. 💪 Opened PR [#2641](https://github.com/jaywcjlove/awesome-mac/pull/2641) in [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac)
+2. 🔒 Closed issue [#1](https://github.com/shiquda/SpotAsk/issues/1) in [shiquda/SpotAsk](https://github.com/shiquda/SpotAsk)
+3. 🗣 Commented on [#1](https://github.com/shiquda/SpotAsk/issues/1#issuecomment-5262455093) in [shiquda/SpotAsk](https://github.com/shiquda/SpotAsk)
+4. 🗣 Commented on [#1](https://github.com/shiquda/SpotAsk/issues/1#issuecomment-5262126641) in [shiquda/SpotAsk](https://github.com/shiquda/SpotAsk)
+5. ❗ Opened issue [#11129](https://github.com/ruanyf/weekly/issues/11129) in [ruanyf/weekly](https://github.com/ruanyf/weekly)
 <!--END_SECTION:activity-->
 
 <picture>
