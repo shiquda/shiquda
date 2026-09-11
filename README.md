@@ -60,6 +60,12 @@
 - [听无人知晓 E45 孟岩对话李继刚：人何以自处 有感](https://shiquda.link/tingwurenzhixiao-e45-reflection/)
 <!-- BLOG-POST-LIST:END -->
 
+### Support
+
+🤗 If you like my work, you can support me here:
+
+[![Support me on Afdian](https://img.shields.io/badge/Support%20me%20on-爱发电-946CE6?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMiAyMXMtNy41LTQuMzUtMTAtOC41Qy0uMiA4Ljg1IDEuNSA0LjUgNS41IDMuNiA4IDMgMTAuMiA0LjMgMTIgNi4zNSAxMy44IDQuMyAxNiAzIDE4LjUgMy42YzQgLjkgNS43IDUuMjUgMy41IDguOUMxOS41IDE2LjY1IDEyIDIxIDEyIDIxeiIvPjwvc3ZnPg==&logoColor=white)](https://ifdian.net/a/shiquda)
+
 <!--
 **shiquda/shiquda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
