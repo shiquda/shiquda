@@ -1,7 +1,7 @@
 # Hi there 👋
 
 - 👋 Hi! I'm shiquda!
-- 📖 I’m a Junior in Tongji University;
+- 📖 I’m a fourth-year student in Tongji University;
 - ✨ I love open source and keep building fun projects;
 - 🤔 I enjoy reading, thinking, and sharing ideas;
 - 🌱 I’m currently explore ways to effectively conduct scientific research with Agents.
