@@ -38,11 +38,11 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shiquda&theme=vue-dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shiquda&theme=vue-dark&show_icons=true&hide=SCSS,CSS,Jupyter%20Notebook&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#14](https://github.com/shiquda/SpotAsk/issues/14#issuecomment-5633424049) in [shiquda/SpotAsk](https://github.com/shiquda/SpotAsk)
-2. 🎉 Merged PR [#15](https://github.com/shiquda/SpotAsk/pull/15) in [shiquda/SpotAsk](https://github.com/shiquda/SpotAsk)
-3. 🔒 Closed issue [#14](https://github.com/shiquda/SpotAsk/issues/14) in [shiquda/SpotAsk](https://github.com/shiquda/SpotAsk)
-4. 💪 Opened PR [#15](https://github.com/shiquda/SpotAsk/pull/15) in [shiquda/SpotAsk](https://github.com/shiquda/SpotAsk)
-5. 🔒 Closed issue [#10](https://github.com/shiquda/SpotAsk/issues/10) in [shiquda/SpotAsk](https://github.com/shiquda/SpotAsk)
+1. 🎉 Merged PR [#17](https://github.com/shiquda/SpotAsk/pull/17) in [shiquda/SpotAsk](https://github.com/shiquda/SpotAsk)
+2. 💪 Opened PR [#17](https://github.com/shiquda/SpotAsk/pull/17) in [shiquda/SpotAsk](https://github.com/shiquda/SpotAsk)
+3. 🎉 Merged PR [#16](https://github.com/shiquda/SpotAsk/pull/16) in [shiquda/SpotAsk](https://github.com/shiquda/SpotAsk)
+4. 💪 Opened PR [#16](https://github.com/shiquda/SpotAsk/pull/16) in [shiquda/SpotAsk](https://github.com/shiquda/SpotAsk)
+5. 🗣 Commented on [#14](https://github.com/shiquda/SpotAsk/issues/14#issuecomment-5633424049) in [shiquda/SpotAsk](https://github.com/shiquda/SpotAsk)
 <!--END_SECTION:activity-->
 
 <picture>
