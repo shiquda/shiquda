@@ -38,11 +38,11 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shiquda&theme=vue-dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shiquda&theme=vue-dark&show_icons=true&hide=SCSS,CSS,Jupyter%20Notebook&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#5](https://github.com/shiquda/treex/issues/5) in [shiquda/treex](https://github.com/shiquda/treex)
-2. 🗣 Commented on [#6838](https://github.com/multica-ai/multica/issues/6838#issuecomment-5862239958) in [multica-ai/multica](https://github.com/multica-ai/multica)
-3. 🎉 Merged PR [#59](https://github.com/shiquda/SpotAsk/pull/59) in [shiquda/SpotAsk](https://github.com/shiquda/SpotAsk)
-4. 💪 Opened PR [#59](https://github.com/shiquda/SpotAsk/pull/59) in [shiquda/SpotAsk](https://github.com/shiquda/SpotAsk)
-5. 🎉 Merged PR [#21](https://github.com/parkuoa/moonleaf/pull/21) in [parkuoa/moonleaf](https://github.com/parkuoa/moonleaf)
+1. 🔒 Closed issue [#60](https://github.com/shiquda/SpotAsk/issues/60) in [shiquda/SpotAsk](https://github.com/shiquda/SpotAsk)
+2. 🔒 Closed issue [#5](https://github.com/shiquda/treex/issues/5) in [shiquda/treex](https://github.com/shiquda/treex)
+3. 🗣 Commented on [#6838](https://github.com/multica-ai/multica/issues/6838#issuecomment-5862239958) in [multica-ai/multica](https://github.com/multica-ai/multica)
+4. 🎉 Merged PR [#59](https://github.com/shiquda/SpotAsk/pull/59) in [shiquda/SpotAsk](https://github.com/shiquda/SpotAsk)
+5. 💪 Opened PR [#59](https://github.com/shiquda/SpotAsk/pull/59) in [shiquda/SpotAsk](https://github.com/shiquda/SpotAsk)
 <!--END_SECTION:activity-->
 
 <picture>
