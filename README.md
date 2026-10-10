@@ -38,11 +38,11 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shiquda&theme=vue-dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shiquda&theme=vue-dark&show_icons=true&hide=SCSS,CSS,Jupyter%20Notebook&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#75](https://github.com/shiquda/SpotAsk/pull/75) in [shiquda/SpotAsk](https://github.com/shiquda/SpotAsk)
-2. 💪 Opened PR [#75](https://github.com/shiquda/SpotAsk/pull/75) in [shiquda/SpotAsk](https://github.com/shiquda/SpotAsk)
-3. 🎉 Merged PR [#74](https://github.com/shiquda/SpotAsk/pull/74) in [shiquda/SpotAsk](https://github.com/shiquda/SpotAsk)
-4. 💪 Opened PR [#74](https://github.com/shiquda/SpotAsk/pull/74) in [shiquda/SpotAsk](https://github.com/shiquda/SpotAsk)
-5. 🎉 Merged PR [#73](https://github.com/shiquda/SpotAsk/pull/73) in [shiquda/SpotAsk](https://github.com/shiquda/SpotAsk)
+1. 💪 Opened PR [#5](https://github.com/corvofeng/atv-core/pull/5) in [corvofeng/atv-core](https://github.com/corvofeng/atv-core)
+2. ❗ Opened issue [#4](https://github.com/corvofeng/atv-core/issues/4) in [corvofeng/atv-core](https://github.com/corvofeng/atv-core)
+3. 🎉 Merged PR [#75](https://github.com/shiquda/SpotAsk/pull/75) in [shiquda/SpotAsk](https://github.com/shiquda/SpotAsk)
+4. 💪 Opened PR [#75](https://github.com/shiquda/SpotAsk/pull/75) in [shiquda/SpotAsk](https://github.com/shiquda/SpotAsk)
+5. 🎉 Merged PR [#74](https://github.com/shiquda/SpotAsk/pull/74) in [shiquda/SpotAsk](https://github.com/shiquda/SpotAsk)
 <!--END_SECTION:activity-->
 
 <picture>
