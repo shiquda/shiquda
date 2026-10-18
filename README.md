@@ -38,11 +38,11 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shiquda&theme=vue-dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shiquda&theme=vue-dark&show_icons=true&hide=SCSS,CSS,Jupyter%20Notebook&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [slideforge v1.0.2](https://github.com/shiquda/slideforge/releases/tag/v1.0.2) in [shiquda/slideforge](https://github.com/shiquda/slideforge)
-2. 🎉 Merged PR [#7](https://github.com/shiquda/cmux-pocket/pull/7) in [shiquda/cmux-pocket](https://github.com/shiquda/cmux-pocket)
-3. 🎉 Merged PR [#103](https://github.com/shiquda/SpotAsk/pull/103) in [shiquda/SpotAsk](https://github.com/shiquda/SpotAsk)
-4. 💪 Opened PR [#103](https://github.com/shiquda/SpotAsk/pull/103) in [shiquda/SpotAsk](https://github.com/shiquda/SpotAsk)
-5. 💪 Opened PR [#7](https://github.com/shiquda/cmux-pocket/pull/7) in [shiquda/cmux-pocket](https://github.com/shiquda/cmux-pocket)
+1. 🎉 Merged PR [#9](https://github.com/shiquda/cmux-pocket/pull/9) in [shiquda/cmux-pocket](https://github.com/shiquda/cmux-pocket)
+2. 💪 Opened PR [#9](https://github.com/shiquda/cmux-pocket/pull/9) in [shiquda/cmux-pocket](https://github.com/shiquda/cmux-pocket)
+3. 🚀 Published release [open-pptd-skill v1.3.2](https://github.com/shiquda/open-pptd-skill/releases/tag/v1.3.2) in [shiquda/open-pptd-skill](https://github.com/shiquda/open-pptd-skill)
+4. 🎉 Merged PR [#105](https://github.com/shiquda/SpotAsk/pull/105) in [shiquda/SpotAsk](https://github.com/shiquda/SpotAsk)
+5. 💪 Opened PR [#105](https://github.com/shiquda/SpotAsk/pull/105) in [shiquda/SpotAsk](https://github.com/shiquda/SpotAsk)
 <!--END_SECTION:activity-->
 
 <picture>
