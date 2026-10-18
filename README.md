@@ -38,11 +38,11 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shiquda&theme=vue-dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shiquda&theme=vue-dark&show_icons=true&hide=SCSS,CSS,Jupyter%20Notebook&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#101](https://github.com/shiquda/SpotAsk/pull/101) in [shiquda/SpotAsk](https://github.com/shiquda/SpotAsk)
-2. 🎉 Merged PR [#98](https://github.com/shiquda/SpotAsk/pull/98) in [shiquda/SpotAsk](https://github.com/shiquda/SpotAsk)
-3. 💪 Opened PR [#101](https://github.com/shiquda/SpotAsk/pull/101) in [shiquda/SpotAsk](https://github.com/shiquda/SpotAsk)
-4. 🎉 Merged PR [#99](https://github.com/shiquda/SpotAsk/pull/99) in [shiquda/SpotAsk](https://github.com/shiquda/SpotAsk)
-5. 💪 Opened PR [#100](https://github.com/shiquda/SpotAsk/pull/100) in [shiquda/SpotAsk](https://github.com/shiquda/SpotAsk)
+1. 🗣 Commented on [#6](https://github.com/shiquda/cmux-pocket/pull/6#issuecomment-6245335970) in [shiquda/cmux-pocket](https://github.com/shiquda/cmux-pocket)
+2. 🎉 Merged PR [#101](https://github.com/shiquda/SpotAsk/pull/101) in [shiquda/SpotAsk](https://github.com/shiquda/SpotAsk)
+3. 🎉 Merged PR [#98](https://github.com/shiquda/SpotAsk/pull/98) in [shiquda/SpotAsk](https://github.com/shiquda/SpotAsk)
+4. 💪 Opened PR [#101](https://github.com/shiquda/SpotAsk/pull/101) in [shiquda/SpotAsk](https://github.com/shiquda/SpotAsk)
+5. 🎉 Merged PR [#99](https://github.com/shiquda/SpotAsk/pull/99) in [shiquda/SpotAsk](https://github.com/shiquda/SpotAsk)
 <!--END_SECTION:activity-->
 
 <picture>
