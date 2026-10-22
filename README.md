@@ -38,11 +38,11 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shiquda&theme=vue-dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shiquda&theme=vue-dark&show_icons=true&hide=SCSS,CSS,Jupyter%20Notebook&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#36](https://github.com/shiquda/cmux-pocket/pull/36) in [shiquda/cmux-pocket](https://github.com/shiquda/cmux-pocket)
-2. 💪 Opened PR [#36](https://github.com/shiquda/cmux-pocket/pull/36) in [shiquda/cmux-pocket](https://github.com/shiquda/cmux-pocket)
-3. 💪 Opened PR [#35](https://github.com/shiquda/cmux-pocket/pull/35) in [shiquda/cmux-pocket](https://github.com/shiquda/cmux-pocket)
-4. 🎉 Merged PR [#34](https://github.com/shiquda/cmux-pocket/pull/34) in [shiquda/cmux-pocket](https://github.com/shiquda/cmux-pocket)
-5. 💪 Opened PR [#34](https://github.com/shiquda/cmux-pocket/pull/34) in [shiquda/cmux-pocket](https://github.com/shiquda/cmux-pocket)
+1. ℹ️ Labeled issue [#1](https://github.com/shiquda/crypto-monitor/issues/1) in [shiquda/crypto-monitor](https://github.com/shiquda/crypto-monitor)
+2. ℹ️ Labeled issue [#3](https://github.com/shiquda/crypto-monitor/issues/3) in [shiquda/crypto-monitor](https://github.com/shiquda/crypto-monitor)
+3. 🔒 Closed issue [#1](https://github.com/shiquda/rss-agent/issues/1) in [shiquda/rss-agent](https://github.com/shiquda/rss-agent)
+4. 🔒 Closed issue [#1](https://github.com/shiquda/youtube-subtitle-downloader/issues/1) in [shiquda/youtube-subtitle-downloader](https://github.com/shiquda/youtube-subtitle-downloader)
+5. 🔒 Closed issue [#4](https://github.com/shiquda/zsxq-dl-fix/issues/4) in [shiquda/zsxq-dl-fix](https://github.com/shiquda/zsxq-dl-fix)
 <!--END_SECTION:activity-->
 
 <picture>
