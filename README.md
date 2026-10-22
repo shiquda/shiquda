@@ -38,11 +38,11 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shiquda&theme=vue-dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shiquda&theme=vue-dark&show_icons=true&hide=SCSS,CSS,Jupyter%20Notebook&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#33](https://github.com/shiquda/cmux-pocket/pull/33) in [shiquda/cmux-pocket](https://github.com/shiquda/cmux-pocket)
-2. 💪 Opened PR [#33](https://github.com/shiquda/cmux-pocket/pull/33) in [shiquda/cmux-pocket](https://github.com/shiquda/cmux-pocket)
-3. 🎉 Merged PR [#32](https://github.com/shiquda/cmux-pocket/pull/32) in [shiquda/cmux-pocket](https://github.com/shiquda/cmux-pocket)
-4. 💪 Opened PR [#32](https://github.com/shiquda/cmux-pocket/pull/32) in [shiquda/cmux-pocket](https://github.com/shiquda/cmux-pocket)
-5. 🎉 Merged PR [#31](https://github.com/shiquda/cmux-pocket/pull/31) in [shiquda/cmux-pocket](https://github.com/shiquda/cmux-pocket)
+1. 🎉 Merged PR [#36](https://github.com/shiquda/cmux-pocket/pull/36) in [shiquda/cmux-pocket](https://github.com/shiquda/cmux-pocket)
+2. 💪 Opened PR [#36](https://github.com/shiquda/cmux-pocket/pull/36) in [shiquda/cmux-pocket](https://github.com/shiquda/cmux-pocket)
+3. 💪 Opened PR [#35](https://github.com/shiquda/cmux-pocket/pull/35) in [shiquda/cmux-pocket](https://github.com/shiquda/cmux-pocket)
+4. 🎉 Merged PR [#34](https://github.com/shiquda/cmux-pocket/pull/34) in [shiquda/cmux-pocket](https://github.com/shiquda/cmux-pocket)
+5. 💪 Opened PR [#34](https://github.com/shiquda/cmux-pocket/pull/34) in [shiquda/cmux-pocket](https://github.com/shiquda/cmux-pocket)
 <!--END_SECTION:activity-->
 
 <picture>
