@@ -38,11 +38,11 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shiquda&theme=vue-dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shiquda&theme=vue-dark&show_icons=true&hide=SCSS,CSS,Jupyter%20Notebook&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:activity-->
-1. ℹ️ Labeled issue [#1](https://github.com/shiquda/crypto-monitor/issues/1) in [shiquda/crypto-monitor](https://github.com/shiquda/crypto-monitor)
-2. ℹ️ Labeled issue [#3](https://github.com/shiquda/crypto-monitor/issues/3) in [shiquda/crypto-monitor](https://github.com/shiquda/crypto-monitor)
-3. 🔒 Closed issue [#1](https://github.com/shiquda/rss-agent/issues/1) in [shiquda/rss-agent](https://github.com/shiquda/rss-agent)
-4. 🔒 Closed issue [#1](https://github.com/shiquda/youtube-subtitle-downloader/issues/1) in [shiquda/youtube-subtitle-downloader](https://github.com/shiquda/youtube-subtitle-downloader)
-5. 🔒 Closed issue [#4](https://github.com/shiquda/zsxq-dl-fix/issues/4) in [shiquda/zsxq-dl-fix](https://github.com/shiquda/zsxq-dl-fix)
+1. ❌ Closed PR [#116](https://github.com/shiquda/SpotAsk/pull/116) in [shiquda/SpotAsk](https://github.com/shiquda/SpotAsk)
+2. 🎉 Merged PR [#114](https://github.com/shiquda/SpotAsk/pull/114) in [shiquda/SpotAsk](https://github.com/shiquda/SpotAsk)
+3. 💪 Opened PR [#115](https://github.com/shiquda/SpotAsk/pull/115) in [shiquda/SpotAsk](https://github.com/shiquda/SpotAsk)
+4. 💪 Opened PR [#38](https://github.com/shiquda/cmux-pocket/pull/38) in [shiquda/cmux-pocket](https://github.com/shiquda/cmux-pocket)
+5. 💪 Opened PR [#12](https://github.com/shiquda/open-pptd-skill/pull/12) in [shiquda/open-pptd-skill](https://github.com/shiquda/open-pptd-skill)
 <!--END_SECTION:activity-->
 
 <picture>
