@@ -38,11 +38,11 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shiquda&theme=vue-dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shiquda&theme=vue-dark&show_icons=true&hide=SCSS,CSS,Jupyter%20Notebook&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#385](https://github.com/yibie/awesome-jev/pull/385) in [yibie/awesome-jev](https://github.com/yibie/awesome-jev)
-2. 💪 Opened PR [#117](https://github.com/shiquda/SpotAsk/pull/117) in [shiquda/SpotAsk](https://github.com/shiquda/SpotAsk)
-3. 💪 Opened PR [#167](https://github.com/cobanov/awesome-jev/pull/167) in [cobanov/awesome-jev](https://github.com/cobanov/awesome-jev)
-4. 💪 Opened PR [#385](https://github.com/yibie/awesome-jev/pull/385) in [yibie/awesome-jev](https://github.com/yibie/awesome-jev)
-5. 💪 Opened PR [#1759](https://github.com/serhii-londar/open-source-mac-os-apps/pull/1759) in [serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps)
+1. 🎉 Merged PR [#117](https://github.com/shiquda/SpotAsk/pull/117) in [shiquda/SpotAsk](https://github.com/shiquda/SpotAsk)
+2. 🎉 Merged PR [#385](https://github.com/yibie/awesome-jev/pull/385) in [yibie/awesome-jev](https://github.com/yibie/awesome-jev)
+3. 💪 Opened PR [#117](https://github.com/shiquda/SpotAsk/pull/117) in [shiquda/SpotAsk](https://github.com/shiquda/SpotAsk)
+4. 💪 Opened PR [#167](https://github.com/cobanov/awesome-jev/pull/167) in [cobanov/awesome-jev](https://github.com/cobanov/awesome-jev)
+5. 💪 Opened PR [#385](https://github.com/yibie/awesome-jev/pull/385) in [yibie/awesome-jev](https://github.com/yibie/awesome-jev)
 <!--END_SECTION:activity-->
 
 <picture>
