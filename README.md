@@ -38,11 +38,11 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shiquda&theme=vue-dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shiquda&theme=vue-dark&show_icons=true&hide=SCSS,CSS,Jupyter%20Notebook&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3](https://github.com/shiquda/thunderbird-vericode/issues/3#issuecomment-6343542410) in [shiquda/thunderbird-vericode](https://github.com/shiquda/thunderbird-vericode)
-2. 🎉 Merged PR [#115](https://github.com/shiquda/SpotAsk/pull/115) in [shiquda/SpotAsk](https://github.com/shiquda/SpotAsk)
-3. 🗣 Commented on [#9](https://github.com/shiquda/thunderbird-vericode/issues/9#issuecomment-6340680970) in [shiquda/thunderbird-vericode](https://github.com/shiquda/thunderbird-vericode)
-4. 🎉 Merged PR [#12](https://github.com/shiquda/open-pptd-skill/pull/12) in [shiquda/open-pptd-skill](https://github.com/shiquda/open-pptd-skill)
-5. 🗣 Commented on [#1](https://github.com/shiquda/youtube-subtitle-downloader/issues/1#issuecomment-6339709312) in [shiquda/youtube-subtitle-downloader](https://github.com/shiquda/youtube-subtitle-downloader)
+1. 💪 Opened PR [#117](https://github.com/shiquda/SpotAsk/pull/117) in [shiquda/SpotAsk](https://github.com/shiquda/SpotAsk)
+2. 💪 Opened PR [#167](https://github.com/cobanov/awesome-jev/pull/167) in [cobanov/awesome-jev](https://github.com/cobanov/awesome-jev)
+3. 💪 Opened PR [#385](https://github.com/yibie/awesome-jev/pull/385) in [yibie/awesome-jev](https://github.com/yibie/awesome-jev)
+4. 💪 Opened PR [#1759](https://github.com/serhii-londar/open-source-mac-os-apps/pull/1759) in [serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps)
+5. 🗣 Commented on [#3](https://github.com/shiquda/thunderbird-vericode/issues/3#issuecomment-6343542410) in [shiquda/thunderbird-vericode](https://github.com/shiquda/thunderbird-vericode)
 <!--END_SECTION:activity-->
 
 <picture>
