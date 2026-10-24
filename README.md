@@ -38,11 +38,11 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shiquda&theme=vue-dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shiquda&theme=vue-dark&show_icons=true&hide=SCSS,CSS,Jupyter%20Notebook&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#117](https://github.com/shiquda/SpotAsk/pull/117) in [shiquda/SpotAsk](https://github.com/shiquda/SpotAsk)
-2. 🎉 Merged PR [#385](https://github.com/yibie/awesome-jev/pull/385) in [yibie/awesome-jev](https://github.com/yibie/awesome-jev)
-3. 💪 Opened PR [#117](https://github.com/shiquda/SpotAsk/pull/117) in [shiquda/SpotAsk](https://github.com/shiquda/SpotAsk)
-4. 💪 Opened PR [#167](https://github.com/cobanov/awesome-jev/pull/167) in [cobanov/awesome-jev](https://github.com/cobanov/awesome-jev)
-5. 💪 Opened PR [#385](https://github.com/yibie/awesome-jev/pull/385) in [yibie/awesome-jev](https://github.com/yibie/awesome-jev)
+1. 🎉 Merged PR [#118](https://github.com/shiquda/SpotAsk/pull/118) in [shiquda/SpotAsk](https://github.com/shiquda/SpotAsk)
+2. 💪 Opened PR [#118](https://github.com/shiquda/SpotAsk/pull/118) in [shiquda/SpotAsk](https://github.com/shiquda/SpotAsk)
+3. 🎉 Merged PR [#1](https://github.com/shiquda/homebrew-cmux-pocket/pull/1) in [shiquda/homebrew-cmux-pocket](https://github.com/shiquda/homebrew-cmux-pocket)
+4. 🎉 Merged PR [#39](https://github.com/shiquda/cmux-pocket/pull/39) in [shiquda/cmux-pocket](https://github.com/shiquda/cmux-pocket)
+5. 💪 Opened PR [#1](https://github.com/shiquda/homebrew-cmux-pocket/pull/1) in [shiquda/homebrew-cmux-pocket](https://github.com/shiquda/homebrew-cmux-pocket)
 <!--END_SECTION:activity-->
 
 <picture>
