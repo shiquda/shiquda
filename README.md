@@ -38,11 +38,11 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shiquda&theme=vue-dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shiquda&theme=vue-dark&show_icons=true&hide=SCSS,CSS,Jupyter%20Notebook&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#119](https://github.com/shiquda/SpotAsk/pull/119) in [shiquda/SpotAsk](https://github.com/shiquda/SpotAsk)
-2. 🎉 Merged PR [#41](https://github.com/shiquda/cmux-pocket/pull/41) in [shiquda/cmux-pocket](https://github.com/shiquda/cmux-pocket)
-3. 🎉 Merged PR [#40](https://github.com/shiquda/cmux-pocket/pull/40) in [shiquda/cmux-pocket](https://github.com/shiquda/cmux-pocket)
-4. 🎉 Merged PR [#14](https://github.com/shiquda/open-pptd-skill/pull/14) in [shiquda/open-pptd-skill](https://github.com/shiquda/open-pptd-skill)
-5. 💪 Opened PR [#14](https://github.com/shiquda/open-pptd-skill/pull/14) in [shiquda/open-pptd-skill](https://github.com/shiquda/open-pptd-skill)
+1. 💪 Opened PR [#1273](https://github.com/VoltAgent/awesome-agent-skills/pull/1273) in [VoltAgent/awesome-agent-skills](https://github.com/VoltAgent/awesome-agent-skills)
+2. ❗ Opened issue [#2585](https://github.com/vercel-labs/skills/issues/2585) in [vercel-labs/skills](https://github.com/vercel-labs/skills)
+3. 💪 Opened PR [#119](https://github.com/shiquda/SpotAsk/pull/119) in [shiquda/SpotAsk](https://github.com/shiquda/SpotAsk)
+4. 🎉 Merged PR [#41](https://github.com/shiquda/cmux-pocket/pull/41) in [shiquda/cmux-pocket](https://github.com/shiquda/cmux-pocket)
+5. 🎉 Merged PR [#40](https://github.com/shiquda/cmux-pocket/pull/40) in [shiquda/cmux-pocket](https://github.com/shiquda/cmux-pocket)
 <!--END_SECTION:activity-->
 
 <picture>
