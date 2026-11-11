@@ -38,11 +38,11 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shiquda&theme=vue-dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shiquda&theme=vue-dark&show_icons=true&hide=SCSS,CSS,Jupyter%20Notebook&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#47](https://github.com/shiquda/cmux-pocket/pull/47) in [shiquda/cmux-pocket](https://github.com/shiquda/cmux-pocket)
-2. 🗣 Commented on [#46](https://github.com/shiquda/cmux-pocket/pull/46#issuecomment-6794851244) in [shiquda/cmux-pocket](https://github.com/shiquda/cmux-pocket)
-3. 🎉 Merged PR [#149](https://github.com/shiquda/SpotAsk/pull/149) in [shiquda/SpotAsk](https://github.com/shiquda/SpotAsk)
-4. 💪 Opened PR [#149](https://github.com/shiquda/SpotAsk/pull/149) in [shiquda/SpotAsk](https://github.com/shiquda/SpotAsk)
-5. ❗ Opened issue [#10090](https://github.com/multica-ai/multica/issues/10090) in [multica-ai/multica](https://github.com/multica-ai/multica)
+1. 🎉 Merged PR [#50](https://github.com/shiquda/cmux-pocket/pull/50) in [shiquda/cmux-pocket](https://github.com/shiquda/cmux-pocket)
+2. 💪 Opened PR [#50](https://github.com/shiquda/cmux-pocket/pull/50) in [shiquda/cmux-pocket](https://github.com/shiquda/cmux-pocket)
+3. 🎉 Merged PR [#49](https://github.com/shiquda/cmux-pocket/pull/49) in [shiquda/cmux-pocket](https://github.com/shiquda/cmux-pocket)
+4. 🎉 Merged PR [#47](https://github.com/shiquda/cmux-pocket/pull/47) in [shiquda/cmux-pocket](https://github.com/shiquda/cmux-pocket)
+5. 💪 Opened PR [#49](https://github.com/shiquda/cmux-pocket/pull/49) in [shiquda/cmux-pocket](https://github.com/shiquda/cmux-pocket)
 <!--END_SECTION:activity-->
 
 <picture>
